@@ -1,0 +1,14 @@
+# GNews API ingest (6:00 AM)
+00 6 * * * cd /Users/scottlovett/news/gnews && /Users/scottlovett/news/gnews/gnews-env/bin/python gnews.py >> logs/gnews.log 2>&1
+
+# RSS ingest (6:05 AM)
+05 6 * * * cd /Users/scottlovett/news/gnews && /Users/scottlovett/news/gnews/gnews-env/bin/python rss_pipeline.py >> logs/rss.log 2>&1
+
+# Scrape article content (6:10 AM)
+10 6 * * * cd /Users/scottlovett/news/gnews && /Users/scottlovett/news/gnews/gnews-env/bin/python article_scrape.py >> logs/scrape.log 2>&1
+
+# Summarize articles (6:25 AM)
+25 6 * * * cd /Users/scottlovett/news/gnews && /Users/scottlovett/news/gnews/gnews-env/bin/python analyze_articles.py >> logs/analyze.log 2>&1
+
+# Enrich articles (6:45 AM)
+45 6 * * * cd /Users/scottlovett/news/gnews && /Users/scottlovett/news/gnews/gnews-env/bin/python enrich_articles.py >> logs/enrich.log 2>&1
