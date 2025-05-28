@@ -6,3 +6,5 @@ __pycache__/
 .vscode/
 .gnews-venv/
 .gnews-env/
+gnews-env/
+bertopic_model
