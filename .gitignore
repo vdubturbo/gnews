@@ -1,36 +1,8 @@
-# Python
-__pycache__/
-*.py[cod]
-*.egg
-*.egg-info/
-dist/
-build/
-
-# Virtual environment
-env/
-venv/
-.gnews-env/
-gnews-env/
-.gnews_env/
-.gnews-env.bak/
-
-# Environment variables
 .env
-.env.*
-
-# macOS
-.DS_Store
-
-# Logs and temp files
-*.log
-*.tmp
-*.bak
-
-# VSCode settings (optional, if sharing the project)
+*.pyc
+__pycache__/
+.env.local
+*.db
 .vscode/
-
-# Python notebooks
-*.ipynb_checkpoints/
-
-# JSON results/output
-news_output*.json.env
+.gnews-venv/
+.gnews-env/

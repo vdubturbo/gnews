@@ -1,0 +1,10 @@
+
+
+{
+  "cybersecurity": ["cybersecurity", "cyber attack", "ransomware", "infosec", "zero trust"],
+  "defense": ["military", "defense", "DOD", "armed forces", "NDAA"],
+  "health": ["CDC", "HHS", "healthcare", "pandemic", "vaccine"],
+  "technology": ["AI", "artificial intelligence", "machine learning", "quantum", "5G"],
+  "energy": ["climate", "DOE", "solar", "wind", "carbon emissions"],
+  "finance": ["federal budget", "appropriations", "spending", "debt ceiling", "fiscal policy"]
+}

@@ -1,0 +1,2162 @@
+ℹ️ No eligible primary queries — attempting secondary tier instead...
+🚀 Finished all eligible queries.
+
+🔍 Running query: federal budget
+✅ Fetched 3 articles for 'federal budget'
+- Conservatives slam Liberals for no plans of spring budget (CP24 Toronto)
+- Politics Insider: No 2025 federal budget tabled before summer, Finance Minister suggests (The Globe and Mail)
+- Opposition slams Liberals for having no plans to table budget soon (Vancouver Is Awesome)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+✅ Inserted: Conservatives slam Liberals for no plans of spring budget
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+✅ Inserted: Politics Insider: No 2025 federal budget tabled before summer, Finance Minister suggests
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+✅ Inserted: Opposition slams Liberals for having no plans to table budget soon
+📉 Low insert count for 'federal budget' — only 3 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running query: appropriations bill
+✅ Fetched 3 articles for 'appropriations bill'
+- Indiana toll road bill amended in committee, but toll road language remains (Chicago Tribune)
+- Bill to attract Chicago Bears to Indiana passes out of Senate committee (Chicago Tribune)
+- Idaho budget writers approve Medicaid budget, including expected savings from Medicaid reform bill (Coeur d'Alene Press)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Indiana toll road bill amended in committee, but toll road language remains
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Bill to attract Chicago Bears to Indiana passes out of Senate committee
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Idaho budget writers approve Medicaid budget, including expected savings from Medicaid reform bill
+📉 Low insert count for 'appropriations bill' — only 0 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running query: infrastructure spending
+✅ Fetched 3 articles for 'infrastructure spending'
+- UK Economy Surpasses Forecasts with Unexpected Growth (Devdiscourse)
+- Ford pledges Ontario budget with infrastructure spending, not cuts, to battle U.S. tariffs (The Globe and Mail)
+- Tariffs have changed Ontario budget approach, Ford says (CP24 Toronto)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+✅ Inserted: UK Economy Surpasses Forecasts with Unexpected Growth
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+✅ Inserted: Ford pledges Ontario budget with infrastructure spending, not cuts, to battle U.S. tariffs
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+✅ Inserted: Tariffs have changed Ontario budget approach, Ford says
+📉 Low insert count for 'infrastructure spending' — only 3 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running query: government contracts
+✅ Fetched 3 articles for 'government contracts'
+- Adobe offers US Government discounted software following DOGE review (TechRadar)
+- US Indictment: Independent review found no irregularities, says Adani Green (The Indian Express)
+- Former Alberta cabinet minister calls government health contract probe 'whitewashing' (Toronto Star)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Adobe offers US Government discounted software following DOGE review
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: US Indictment: Independent review found no irregularities, says Adani Green
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Former Alberta cabinet minister calls government health contract probe 'whitewashing'
+📉 Low insert count for 'government contracts' — only 0 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running query: contract award
+✅ Fetched 3 articles for 'contract award'
+- MTA to award $187M management contract for Second Ave. Subway work (New York Daily News)
+- Eyeing China threat, Trump announces Boeing wins contract for secretive future fighter jet (Coeur d'Alene Press)
+- Cash-strapped RTÉ is set to splurge an estimated €150,000 on professional tree surgeon services (Irish Mirror)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: MTA to award $187M management contract for Second Ave. Subway work
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Eyeing China threat, Trump announces Boeing wins contract for secretive future fighter jet
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Cash-strapped RTÉ is set to splurge an estimated €150,000 on professional tree surgeon services
+📉 Low insert count for 'contract award' — only 0 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running query: cybersecurity spending
+✅ Fetched 3 articles for 'cybersecurity spending'
+- Microsoft is spending $700 million to ramp up security and computing power in Poland (TechRadar)
+- Companies are spending barely any IT budget on security (TechRadar)
+- RBI-Kotak Mahindra Bank effect: ICICI Bank spotlights increased spending on IT, cybersecurity (Livemint)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Microsoft is spending $700 million to ramp up security and computing power in Poland
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Companies are spending barely any IT budget on security
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: RBI-Kotak Mahindra Bank effect: ICICI Bank spotlights increased spending on IT, cybersecurity
+📉 Low insert count for 'cybersecurity spending' — only 0 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running query: defense modernization
+✅ Fetched 3 articles for 'defense modernization'
+- Pentagon prioritizes Indo-Pacific, rapid modernization ahead of fiscal year 2026 (UPI News)
+- India's Defence Budget 2025-26: A Leap Towards Self-Reliance and Modernization (Devdiscourse)
+- Galido pledges Army modernization for enhanced territorial defense (manilastandard.net)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Pentagon prioritizes Indo-Pacific, rapid modernization ahead of fiscal year 2026
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: India's Defence Budget 2025-26: A Leap Towards Self-Reliance and Modernization
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Galido pledges Army modernization for enhanced territorial defense
+📉 Low insert count for 'defense modernization' — only 0 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running query: climate funding
+✅ Fetched 3 articles for 'climate funding'
+- EU proposes curbing more green rules on farming subsidies (Devdiscourse)
+- USDA Restores Climate Change Pages After Lawsuit (Devdiscourse)
+- House Republicans target clean energy tax credits and pollution rules in budget proposal (The Associated Press)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+✅ Inserted: EU proposes curbing more green rules on farming subsidies
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+✅ Inserted: USDA Restores Climate Change Pages After Lawsuit
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: House Republicans target clean energy tax credits and pollution rules in budget proposal
+📉 Low insert count for 'climate funding' — only 2 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running query: technology investment
+✅ Fetched 3 articles for 'technology investment'
+- How Operation Sindoor demonstrates capabilities of Made in India defence technology (The Indian Express)
+- Donald Trump news: US President announces $927 billion investment deal with Saudi Arabia in Riyadh (PerthNow)
+- Unlocking Finance for Resilient Infrastructure: ICDRI 2025 in France (Devdiscourse)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+✅ Inserted: How Operation Sindoor demonstrates capabilities of Made in India defence technology
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+✅ Inserted: Donald Trump news: US President announces $927 billion investment deal with Saudi Arabia in Riyadh
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Unlocking Finance for Resilient Infrastructure: ICDRI 2025 in France
+📉 Low insert count for 'technology investment' — only 2 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running query: AI regulation
+✅ Fetched 3 articles for 'AI regulation'
+- Republicans Propose No Regulation of AI for the Next 10 Years (Newsweek)
+- Toronto Centre MP Evan Solomon appointed Canada’s first AI minister (The Globe and Mail)
+- GOP sneaks decade-long AI regulation ban into spending bill (Ars Technica)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+✅ Inserted: Republicans Propose No Regulation of AI for the Next 10 Years
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+✅ Inserted: Toronto Centre MP Evan Solomon appointed Canada’s first AI minister
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+✅ Inserted: GOP sneaks decade-long AI regulation ban into spending bill
+📉 Low insert count for 'AI regulation' — only 3 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running query: NDAA
+✅ Fetched 3 articles for 'NDAA'
+- DJI evades US ban but has one year to prove its products aren't a national security threat (Engadget)
+- DJI escapes US drone ban - but may get banned automatically unless Trump steps in (The Verge)
+- Senate Approves Landmark Defense Bill Amid Controversy (Devdiscourse)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: DJI evades US ban but has one year to prove its products aren't a national security threat
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: DJI escapes US drone ban - but may get banned automatically unless Trump steps in
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Senate Approves Landmark Defense Bill Amid Controversy
+📉 Low insert count for 'NDAA' — only 0 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running query: RFP
+✅ Fetched 3 articles for 'RFP'
+- Revised parking rates to be taken up during April 30 meet: General House of Chandigarh’s civic body (The Indian Express)
+- Transfix launches RFP tool, teases upcoming gen AI release (FreightWaves)
+- Future of VC Summer Nuclear Station in Jenkinsville may be revived (WLTX.com)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Revised parking rates to be taken up during April 30 meet: General House of Chandigarh’s civic body
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Transfix launches RFP tool, teases upcoming gen AI release
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Future of VC Summer Nuclear Station in Jenkinsville may be revived
+📉 Low insert count for 'RFP' — only 0 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running query: RFQ
+✅ Fetched 3 articles for 'RFQ'
+- BCCI announces release of RFQ for official partner rights for IPL (Livemint)
+- Your Questions Answered: How can I invest in corporate bonds using the RFQ platform? (Livemint)
+- Sebi looking to mandate FPIs to use RFQ platform for 10 pc of secondary transactions (Business Insider India)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: BCCI announces release of RFQ for official partner rights for IPL
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Your Questions Answered: How can I invest in corporate bonds using the RFQ platform?
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Sebi looking to mandate FPIs to use RFQ platform for 10 pc of secondary transactions
+📉 Low insert count for 'RFQ' — only 0 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+🚀 Finished all eligible queries.
+
+🔍 Running query: CHIPS Act
+✅ Fetched 3 articles for 'CHIPS Act'
+- The cool truth: Are ice chips safe for your pet? (manilastandard.net)
+- Design flaws undercut law to bring chip manufacturing back to US, expert says (FreightWaves)
+- Trump signs order to set up new entity to take over Biden’s Chips Act program (The Guardian)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+✅ Inserted: The cool truth: Are ice chips safe for your pet?
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+✅ Inserted: Design flaws undercut law to bring chip manufacturing back to US, expert says
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Trump signs order to set up new entity to take over Biden’s Chips Act program
+📉 Low insert count for 'CHIPS Act' — only 2 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+
+🔍 Running fallback query: NASA funding
+✅ Fetched 3 articles for fallback 'NASA funding'
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Europe Eyes Space and Science Surge Amid U.S. Budget Cuts
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Trump cuts science funds, France tells scientists 'come, join us'
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: MDA shares walloped by White House space cuts
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running fallback query: USAID programs
+✅ Fetched 3 articles for fallback 'USAID programs'
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: U.S. restores urgent food aid in some countries but excludes Afghanistan and Yemen
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Trump administration ends some USAID contracts providing lifesaving aid across the Middle East
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Trump administration ends some USAID contracts providing lifesaving aid across the Middle East
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running fallback query: CDC policy
+✅ Fetched 3 articles for fallback 'CDC policy'
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Trump Nominates Susan Monarez for CDC Director Amid Vaccine Policy Scrutiny
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: FDA Expands Alnylam Heart Drug Approval Amid Health Policy Shifts
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: CDC meeting on vaccinations postponed days after RFK Jr. took over HHS
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running fallback query: HHS grant
+✅ Fetched 3 articles for fallback 'HHS grant'
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Musk’s takeover of US health agencies raises pandemic threat, experts warn
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: HHS spent $400,000 interviewing transgender people in India
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Bush revives bill to provide mental health services to families affected by police shootings
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running fallback query: Department of Energy budget
+✅ Fetched 3 articles for fallback 'Department of Energy budget'
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: From watts to warheads: Secretary of energy oversees big science research and the US nuclear arsenal
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: ₱70B needed over next 5 years to achieve full electrification - DOE
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Gruha Jyothi grabs lion's share, no relief for escoms
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running fallback query: Department of Defense AI
+✅ Fetched 3 articles for fallback 'Department of Defense AI'
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Pentagon Earmarks $100 Million To Develop AI Pilot Projects & Speed Up "Real-World Experimentation"
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Palantir stock soars as Department of Defense spending powers earnings beat
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Palantir stock soars as Department of Defense spending powers earnings beat
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running fallback query: VA modernization
+✅ Fetched 2 articles for fallback 'VA modernization'
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Xcelerate Solutions Wins DLA Recompete to Continue Modernization Efforts
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Federal Transit Administration Selects ICF for $10 Million in IT Modernization Services
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running fallback query: GSA procurement
+✅ Fetched 0 articles for fallback 'GSA procurement'
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running fallback query: DHS cybersecurity
+✅ Fetched 3 articles for fallback 'DHS cybersecurity'
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: DHS moves to fire 12 CISA employees who policed 'misinformation' and pause 'all election security activities'
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: US probe against alleged hacking by China at stake, homeland security fires cybersecurity advisers
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Cybersecurity Under Siege: DHS Fires Advisory Board Amid Major Hack Probe
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running fallback query: NIH research grant
+✅ Fetched 3 articles for fallback 'NIH research grant'
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+✅ Inserted: NIH grant supports Wayne State University research on protecting vision in people with diabetes
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: A Michigan research professor explains how NIH funding works − and what it means to suddenly lose a grant
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Scholars, groups sue Trump administration over canceled NIH research funding
+🕒 Sleeping 3 seconds to avoid rate limiting...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running query: Inflation Reduction Act
+✅ Fetched 3 articles for 'Inflation Reduction Act'
+- Republicans propose gutting Biden climate bill for Trump tax cuts (CBS News)
+- USDA Restores Climate Change Pages After Lawsuit (Devdiscourse)
+- House GOP wants to cut parts of the Inflation Reduction Act while sparing others (TechCrunch)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+✅ Inserted: Republicans propose gutting Biden climate bill for Trump tax cuts
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: USDA Restores Climate Change Pages After Lawsuit
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+✅ Inserted: House GOP wants to cut parts of the Inflation Reduction Act while sparing others
+📉 Low insert count for 'Inflation Reduction Act' — only 2 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running query: American Rescue Plan
+✅ Fetched 3 articles for 'American Rescue Plan'
+- Louisiana allocates $750M to fix failing water and sewer systems (WBRZ)
+- Gary council postpones multiple ordinances, approves finance items (Chicago Tribune)
+- North Charleston could soon see new community center (Live 5 News WCSC)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Louisiana allocates $750M to fix failing water and sewer systems
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Gary council postpones multiple ordinances, approves finance items
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: North Charleston could soon see new community center
+📉 Low insert count for 'American Rescue Plan' — only 0 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+🚀 Finished all eligible queries.
+
+🔍 Running query: NDAA
+✅ Fetched 3 articles for 'NDAA'
+- DJI evades US ban but has one year to prove its products aren't a national security threat (Engadget)
+- DJI escapes US drone ban - but may get banned automatically unless Trump steps in (The Verge)
+- Senate Approves Landmark Defense Bill Amid Controversy (Devdiscourse)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: DJI evades US ban but has one year to prove its products aren't a national security threat
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: DJI escapes US drone ban - but may get banned automatically unless Trump steps in
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Senate Approves Landmark Defense Bill Amid Controversy
+📉 Low insert count for 'NDAA' — only 0 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running query: RFP
+✅ Fetched 3 articles for 'RFP'
+- Revised parking rates to be taken up during April 30 meet: General House of Chandigarh’s civic body (The Indian Express)
+- Transfix launches RFP tool, teases upcoming gen AI release (FreightWaves)
+- Future of VC Summer Nuclear Station in Jenkinsville may be revived (WLTX.com)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Revised parking rates to be taken up during April 30 meet: General House of Chandigarh’s civic body
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Transfix launches RFP tool, teases upcoming gen AI release
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Future of VC Summer Nuclear Station in Jenkinsville may be revived
+📉 Low insert count for 'RFP' — only 0 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running query: RFQ
+✅ Fetched 3 articles for 'RFQ'
+- BCCI announces release of RFQ for official partner rights for IPL (Livemint)
+- Your Questions Answered: How can I invest in corporate bonds using the RFQ platform? (Livemint)
+- Sebi looking to mandate FPIs to use RFQ platform for 10 pc of secondary transactions (Business Insider India)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: BCCI announces release of RFQ for official partner rights for IPL
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Your Questions Answered: How can I invest in corporate bonds using the RFQ platform?
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Sebi looking to mandate FPIs to use RFQ platform for 10 pc of secondary transactions
+📉 Low insert count for 'RFQ' — only 0 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running query: federal budget
+✅ Fetched 3 articles for 'federal budget'
+- Opposition slams Liberals for having no plans to table budget soon (Vancouver Is Awesome)
+- Opposition slams Liberals for having no plans to table budget soon (Vancouver Is Awesome)
+- Opposition slams Liberals for having no plans to table budget soon (BayToday)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Opposition slams Liberals for having no plans to table budget soon
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+✅ Inserted: Opposition slams Liberals for having no plans to table budget soon
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+✅ Inserted: Opposition slams Liberals for having no plans to table budget soon
+📉 Low insert count for 'federal budget' — only 2 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running query: appropriations bill
+✅ Fetched 3 articles for 'appropriations bill'
+- Indiana toll road bill amended in committee, but toll road language remains (Chicago Tribune)
+- Bill to attract Chicago Bears to Indiana passes out of Senate committee (Chicago Tribune)
+- Idaho budget writers approve Medicaid budget, including expected savings from Medicaid reform bill (Coeur d'Alene Press)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Indiana toll road bill amended in committee, but toll road language remains
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Bill to attract Chicago Bears to Indiana passes out of Senate committee
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Idaho budget writers approve Medicaid budget, including expected savings from Medicaid reform bill
+📉 Low insert count for 'appropriations bill' — only 0 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running query: infrastructure spending
+✅ Fetched 3 articles for 'infrastructure spending'
+- UK Economy Surpasses Forecasts with Unexpected Growth (Devdiscourse)
+- Ford pledges Ontario budget with infrastructure spending, not cuts, to battle U.S. tariffs (The Globe and Mail)
+- Tariffs have changed Ontario budget approach, Ford says (CP24 Toronto)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: UK Economy Surpasses Forecasts with Unexpected Growth
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Ford pledges Ontario budget with infrastructure spending, not cuts, to battle U.S. tariffs
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Tariffs have changed Ontario budget approach, Ford says
+📉 Low insert count for 'infrastructure spending' — only 0 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running query: government contracts
+✅ Fetched 3 articles for 'government contracts'
+- Microsoft says its Azure and AI tech hasn’t harmed people in Gaza (The Verge)
+- Adobe offers US Government discounted software following DOGE review (TechRadar)
+- US Indictment: Independent review found no irregularities, says Adani Green (The Indian Express)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+✅ Inserted: Microsoft says its Azure and AI tech hasn’t harmed people in Gaza
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Adobe offers US Government discounted software following DOGE review
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: US Indictment: Independent review found no irregularities, says Adani Green
+📉 Low insert count for 'government contracts' — only 1 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running query: contract award
+✅ Fetched 3 articles for 'contract award'
+- MTA to award $187M management contract for Second Ave. Subway work (New York Daily News)
+- Eyeing China threat, Trump announces Boeing wins contract for secretive future fighter jet (Coeur d'Alene Press)
+- Cash-strapped RTÉ is set to splurge an estimated €150,000 on professional tree surgeon services (Irish Mirror)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: MTA to award $187M management contract for Second Ave. Subway work
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Eyeing China threat, Trump announces Boeing wins contract for secretive future fighter jet
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Cash-strapped RTÉ is set to splurge an estimated €150,000 on professional tree surgeon services
+📉 Low insert count for 'contract award' — only 0 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running query: cybersecurity spending
+✅ Fetched 3 articles for 'cybersecurity spending'
+- Microsoft is spending $700 million to ramp up security and computing power in Poland (TechRadar)
+- Companies are spending barely any IT budget on security (TechRadar)
+- RBI-Kotak Mahindra Bank effect: ICICI Bank spotlights increased spending on IT, cybersecurity (Livemint)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Microsoft is spending $700 million to ramp up security and computing power in Poland
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Companies are spending barely any IT budget on security
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: RBI-Kotak Mahindra Bank effect: ICICI Bank spotlights increased spending on IT, cybersecurity
+📉 Low insert count for 'cybersecurity spending' — only 0 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running query: defense modernization
+✅ Fetched 3 articles for 'defense modernization'
+- Pentagon prioritizes Indo-Pacific, rapid modernization ahead of fiscal year 2026 (UPI News)
+- India's Defence Budget 2025-26: A Leap Towards Self-Reliance and Modernization (Devdiscourse)
+- Galido pledges Army modernization for enhanced territorial defense (manilastandard.net)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Pentagon prioritizes Indo-Pacific, rapid modernization ahead of fiscal year 2026
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: India's Defence Budget 2025-26: A Leap Towards Self-Reliance and Modernization
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Galido pledges Army modernization for enhanced territorial defense
+📉 Low insert count for 'defense modernization' — only 0 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running query: climate funding
+✅ Fetched 3 articles for 'climate funding'
+- EU proposes curbing more green rules on farming subsidies (Devdiscourse)
+- USDA Restores Climate Change Pages After Lawsuit (Devdiscourse)
+- House Republicans target clean energy tax credits and pollution rules in budget proposal (The Associated Press)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: EU proposes curbing more green rules on farming subsidies
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: USDA Restores Climate Change Pages After Lawsuit
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: House Republicans target clean energy tax credits and pollution rules in budget proposal
+📉 Low insert count for 'climate funding' — only 0 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running query: technology investment
+✅ Fetched 3 articles for 'technology investment'
+- How Operation Sindoor demonstrates capabilities of Made in India defence technology (The Indian Express)
+- Donald Trump news: US President announces $927 billion investment deal with Saudi Arabia in Riyadh (PerthNow)
+- Unlocking Finance for Resilient Infrastructure: ICDRI 2025 in France (Devdiscourse)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: How Operation Sindoor demonstrates capabilities of Made in India defence technology
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Donald Trump news: US President announces $927 billion investment deal with Saudi Arabia in Riyadh
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Unlocking Finance for Resilient Infrastructure: ICDRI 2025 in France
+📉 Low insert count for 'technology investment' — only 0 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running query: AI regulation
+✅ Fetched 3 articles for 'AI regulation'
+- Republicans Propose No Regulation of AI for the Next 10 Years (Newsweek)
+- Toronto Centre MP Evan Solomon appointed Canada’s first AI minister (The Globe and Mail)
+- Nvidia, AMD sell chips to Saudi Arabia for AI data centres (The Australian Financial Review)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Republicans Propose No Regulation of AI for the Next 10 Years
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Toronto Centre MP Evan Solomon appointed Canada’s first AI minister
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+✅ Inserted: Nvidia, AMD sell chips to Saudi Arabia for AI data centres
+📉 Low insert count for 'AI regulation' — only 1 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+🚀 Finished all eligible queries.
+ℹ️ No eligible primary queries — attempting secondary tier instead...
+🚀 Finished all eligible queries.
+
+🔍 Running query: CHIPS Act
+✅ Fetched 3 articles for 'CHIPS Act'
+- The cool truth: Are ice chips safe for your pet? (manilastandard.net)
+- Design flaws undercut law to bring chip manufacturing back to US, expert says (FreightWaves)
+- Trump signs order to set up new entity to take over Biden’s Chips Act program (The Guardian)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: The cool truth: Are ice chips safe for your pet?
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Design flaws undercut law to bring chip manufacturing back to US, expert says
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Trump signs order to set up new entity to take over Biden’s Chips Act program
+📉 Low insert count for 'CHIPS Act' — only 0 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+
+🔍 Running fallback query: NASA funding
+✅ Fetched 3 articles for fallback 'NASA funding'
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Europe Eyes Space and Science Surge Amid U.S. Budget Cuts
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Trump cuts science funds, France tells scientists 'come, join us'
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: MDA shares walloped by White House space cuts
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running fallback query: USAID programs
+✅ Fetched 3 articles for fallback 'USAID programs'
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: U.S. restores urgent food aid in some countries but excludes Afghanistan and Yemen
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Trump administration ends some USAID contracts providing lifesaving aid across the Middle East
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Trump administration ends some USAID contracts providing lifesaving aid across the Middle East
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running fallback query: CDC policy
+✅ Fetched 3 articles for fallback 'CDC policy'
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Trump Nominates Susan Monarez for CDC Director Amid Vaccine Policy Scrutiny
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: FDA Expands Alnylam Heart Drug Approval Amid Health Policy Shifts
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: CDC meeting on vaccinations postponed days after RFK Jr. took over HHS
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running fallback query: HHS grant
+✅ Fetched 3 articles for fallback 'HHS grant'
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Musk’s takeover of US health agencies raises pandemic threat, experts warn
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: HHS spent $400,000 interviewing transgender people in India
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Bush revives bill to provide mental health services to families affected by police shootings
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running fallback query: Department of Energy budget
+✅ Fetched 3 articles for fallback 'Department of Energy budget'
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: From watts to warheads: Secretary of energy oversees big science research and the US nuclear arsenal
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: ₱70B needed over next 5 years to achieve full electrification - DOE
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Gruha Jyothi grabs lion's share, no relief for escoms
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running fallback query: Department of Defense AI
+✅ Fetched 3 articles for fallback 'Department of Defense AI'
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Pentagon Earmarks $100 Million To Develop AI Pilot Projects & Speed Up "Real-World Experimentation"
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Palantir stock soars as Department of Defense spending powers earnings beat
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Palantir stock soars as Department of Defense spending powers earnings beat
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running fallback query: VA modernization
+✅ Fetched 2 articles for fallback 'VA modernization'
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Xcelerate Solutions Wins DLA Recompete to Continue Modernization Efforts
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Federal Transit Administration Selects ICF for $10 Million in IT Modernization Services
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running fallback query: GSA procurement
+✅ Fetched 0 articles for fallback 'GSA procurement'
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running fallback query: DHS cybersecurity
+✅ Fetched 3 articles for fallback 'DHS cybersecurity'
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: DHS moves to fire 12 CISA employees who policed 'misinformation' and pause 'all election security activities'
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: US probe against alleged hacking by China at stake, homeland security fires cybersecurity advisers
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Cybersecurity Under Siege: DHS Fires Advisory Board Amid Major Hack Probe
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running fallback query: NIH research grant
+✅ Fetched 3 articles for fallback 'NIH research grant'
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: NIH grant supports Wayne State University research on protecting vision in people with diabetes
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: A Michigan research professor explains how NIH funding works − and what it means to suddenly lose a grant
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Scholars, groups sue Trump administration over canceled NIH research funding
+🕒 Sleeping 3 seconds to avoid rate limiting...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running query: Inflation Reduction Act
+✅ Fetched 3 articles for 'Inflation Reduction Act'
+- Republicans propose gutting Biden climate bill for Trump tax cuts (CBS News)
+- USDA Restores Climate Change Pages After Lawsuit (Devdiscourse)
+- House GOP wants to cut parts of the Inflation Reduction Act while sparing others (TechCrunch)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Republicans propose gutting Biden climate bill for Trump tax cuts
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: USDA Restores Climate Change Pages After Lawsuit
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: House GOP wants to cut parts of the Inflation Reduction Act while sparing others
+📉 Low insert count for 'Inflation Reduction Act' — only 0 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running query: American Rescue Plan
+✅ Fetched 3 articles for 'American Rescue Plan'
+- Louisiana allocates $750M to fix failing water and sewer systems (WBRZ)
+- Gary council postpones multiple ordinances, approves finance items (Chicago Tribune)
+- North Charleston could soon see new community center (Live 5 News WCSC)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Louisiana allocates $750M to fix failing water and sewer systems
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Gary council postpones multiple ordinances, approves finance items
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: North Charleston could soon see new community center
+📉 Low insert count for 'American Rescue Plan' — only 0 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running query: NDAA
+✅ Fetched 3 articles for 'NDAA'
+- DJI evades US ban but has one year to prove its products aren't a national security threat (Engadget)
+- DJI escapes US drone ban - but may get banned automatically unless Trump steps in (The Verge)
+- Senate Approves Landmark Defense Bill Amid Controversy (Devdiscourse)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: DJI evades US ban but has one year to prove its products aren't a national security threat
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: DJI escapes US drone ban - but may get banned automatically unless Trump steps in
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Senate Approves Landmark Defense Bill Amid Controversy
+📉 Low insert count for 'NDAA' — only 0 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running query: RFP
+✅ Fetched 3 articles for 'RFP'
+- Revised parking rates to be taken up during April 30 meet: General House of Chandigarh’s civic body (The Indian Express)
+- Transfix launches RFP tool, teases upcoming gen AI release (FreightWaves)
+- Future of VC Summer Nuclear Station in Jenkinsville may be revived (WLTX.com)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Revised parking rates to be taken up during April 30 meet: General House of Chandigarh’s civic body
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Transfix launches RFP tool, teases upcoming gen AI release
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Future of VC Summer Nuclear Station in Jenkinsville may be revived
+📉 Low insert count for 'RFP' — only 0 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running query: RFQ
+✅ Fetched 3 articles for 'RFQ'
+- BCCI announces release of RFQ for official partner rights for IPL (Livemint)
+- Your Questions Answered: How can I invest in corporate bonds using the RFQ platform? (Livemint)
+- Sebi looking to mandate FPIs to use RFQ platform for 10 pc of secondary transactions (Business Insider India)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: BCCI announces release of RFQ for official partner rights for IPL
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Your Questions Answered: How can I invest in corporate bonds using the RFQ platform?
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Sebi looking to mandate FPIs to use RFQ platform for 10 pc of secondary transactions
+📉 Low insert count for 'RFQ' — only 0 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running query: federal budget
+✅ Fetched 3 articles for 'federal budget'
+- Liberal government to table federal budget this fall, PM Carney says (Vancouver Is Awesome)
+- Liberal government to table federal budget this fall, PM Carney says (SooToday)
+- Liberal government to table federal budget this fall, PM Carney says (ElliotLakeToday.com)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+✅ Inserted: Liberal government to table federal budget this fall, PM Carney says
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+✅ Inserted: Liberal government to table federal budget this fall, PM Carney says
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+✅ Inserted: Liberal government to table federal budget this fall, PM Carney says
+📉 Low insert count for 'federal budget' — only 3 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running query: appropriations bill
+✅ Fetched 3 articles for 'appropriations bill'
+- Indiana toll road bill amended in committee, but toll road language remains (Chicago Tribune)
+- Bill to attract Chicago Bears to Indiana passes out of Senate committee (Chicago Tribune)
+- Idaho budget writers approve Medicaid budget, including expected savings from Medicaid reform bill (Coeur d'Alene Press)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Indiana toll road bill amended in committee, but toll road language remains
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Bill to attract Chicago Bears to Indiana passes out of Senate committee
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Idaho budget writers approve Medicaid budget, including expected savings from Medicaid reform bill
+📉 Low insert count for 'appropriations bill' — only 0 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running query: infrastructure spending
+✅ Fetched 3 articles for 'infrastructure spending'
+- UK Economy Surpasses Forecasts with Unexpected Growth (Devdiscourse)
+- Ford pledges Ontario budget with infrastructure spending, not cuts, to battle U.S. tariffs (The Globe and Mail)
+- Tariffs have changed Ontario budget approach, Ford says (CP24 Toronto)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: UK Economy Surpasses Forecasts with Unexpected Growth
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Ford pledges Ontario budget with infrastructure spending, not cuts, to battle U.S. tariffs
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Tariffs have changed Ontario budget approach, Ford says
+📉 Low insert count for 'infrastructure spending' — only 0 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running query: government contracts
+✅ Fetched 3 articles for 'government contracts'
+- Is Elon Musk losing ground (in the sky) to Jeff Bezos? The state of the billionaire space race (Toronto Star)
+- Microsoft says its Azure and AI tech hasn’t harmed people in Gaza (The Verge)
+- Adobe offers US Government discounted software following DOGE review (TechRadar)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+✅ Inserted: Is Elon Musk losing ground (in the sky) to Jeff Bezos? The state of the billionaire space race
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Microsoft says its Azure and AI tech hasn’t harmed people in Gaza
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Adobe offers US Government discounted software following DOGE review
+📉 Low insert count for 'government contracts' — only 1 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running query: contract award
+✅ Fetched 3 articles for 'contract award'
+- MTA to award $187M management contract for Second Ave. Subway work (New York Daily News)
+- Eyeing China threat, Trump announces Boeing wins contract for secretive future fighter jet (Coeur d'Alene Press)
+- Cash-strapped RTÉ is set to splurge an estimated €150,000 on professional tree surgeon services (Irish Mirror)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: MTA to award $187M management contract for Second Ave. Subway work
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Eyeing China threat, Trump announces Boeing wins contract for secretive future fighter jet
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Cash-strapped RTÉ is set to splurge an estimated €150,000 on professional tree surgeon services
+📉 Low insert count for 'contract award' — only 0 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running query: cybersecurity spending
+✅ Fetched 3 articles for 'cybersecurity spending'
+- Microsoft is spending $700 million to ramp up security and computing power in Poland (TechRadar)
+- Companies are spending barely any IT budget on security (TechRadar)
+- RBI-Kotak Mahindra Bank effect: ICICI Bank spotlights increased spending on IT, cybersecurity (Livemint)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Microsoft is spending $700 million to ramp up security and computing power in Poland
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Companies are spending barely any IT budget on security
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: RBI-Kotak Mahindra Bank effect: ICICI Bank spotlights increased spending on IT, cybersecurity
+📉 Low insert count for 'cybersecurity spending' — only 0 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running query: defense modernization
+✅ Fetched 3 articles for 'defense modernization'
+- Pentagon prioritizes Indo-Pacific, rapid modernization ahead of fiscal year 2026 (UPI News)
+- India's Defence Budget 2025-26: A Leap Towards Self-Reliance and Modernization (Devdiscourse)
+- Galido pledges Army modernization for enhanced territorial defense (manilastandard.net)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Pentagon prioritizes Indo-Pacific, rapid modernization ahead of fiscal year 2026
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: India's Defence Budget 2025-26: A Leap Towards Self-Reliance and Modernization
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Galido pledges Army modernization for enhanced territorial defense
+📉 Low insert count for 'defense modernization' — only 0 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running query: climate funding
+✅ Fetched 3 articles for 'climate funding'
+- EU proposes curbing more green rules on farming subsidies (Devdiscourse)
+- USDA Restores Climate Change Pages After Lawsuit (Devdiscourse)
+- House Republicans target clean energy tax credits and pollution rules in budget proposal (The Associated Press)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: EU proposes curbing more green rules on farming subsidies
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: USDA Restores Climate Change Pages After Lawsuit
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: House Republicans target clean energy tax credits and pollution rules in budget proposal
+📉 Low insert count for 'climate funding' — only 0 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running query: technology investment
+✅ Fetched 3 articles for 'technology investment'
+- Black Opal Ventures Releases Annual Impact Report, Spotlighting Frontier Technology Companies Solving Healthcare's Complex Challenges (VentureBeat)
+- How Operation Sindoor demonstrates capabilities of Made in India defence technology (The Indian Express)
+- Donald Trump news: US President announces $927 billion investment deal with Saudi Arabia in Riyadh (PerthNow)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+✅ Inserted: Black Opal Ventures Releases Annual Impact Report, Spotlighting Frontier Technology Companies Solving Healthcare's Complex Challenges
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: How Operation Sindoor demonstrates capabilities of Made in India defence technology
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Donald Trump news: US President announces $927 billion investment deal with Saudi Arabia in Riyadh
+📉 Low insert count for 'technology investment' — only 1 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running query: AI regulation
+✅ Fetched 3 articles for 'AI regulation'
+- Tim Ayres must not copy Europe’s bonkers AI regulation (The Australian Financial Review)
+- Republicans Propose No Regulation of AI for the Next 10 Years (Newsweek)
+- Toronto Centre MP Evan Solomon appointed Canada’s first AI minister (The Globe and Mail)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+✅ Inserted: Tim Ayres must not copy Europe’s bonkers AI regulation
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Republicans Propose No Regulation of AI for the Next 10 Years
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Toronto Centre MP Evan Solomon appointed Canada’s first AI minister
+📉 Low insert count for 'AI regulation' — only 1 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+🚀 Finished all eligible queries.
+ℹ️ No eligible primary queries — attempting secondary tier instead...
+🚀 Finished all eligible queries.
+
+🔍 Running query: NDAA
+✅ Fetched 3 articles for 'NDAA'
+- DJI evades US ban but has one year to prove its products aren't a national security threat (Engadget)
+- DJI escapes US drone ban - but may get banned automatically unless Trump steps in (The Verge)
+- Senate Approves Landmark Defense Bill Amid Controversy (Devdiscourse)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: DJI evades US ban but has one year to prove its products aren't a national security threat
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: DJI escapes US drone ban - but may get banned automatically unless Trump steps in
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Senate Approves Landmark Defense Bill Amid Controversy
+📉 Low insert count for 'NDAA' — only 0 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running query: RFP
+✅ Fetched 3 articles for 'RFP'
+- Revised parking rates to be taken up during April 30 meet: General House of Chandigarh’s civic body (The Indian Express)
+- Transfix launches RFP tool, teases upcoming gen AI release (FreightWaves)
+- Future of VC Summer Nuclear Station in Jenkinsville may be revived (WLTX.com)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Revised parking rates to be taken up during April 30 meet: General House of Chandigarh’s civic body
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Transfix launches RFP tool, teases upcoming gen AI release
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Future of VC Summer Nuclear Station in Jenkinsville may be revived
+📉 Low insert count for 'RFP' — only 0 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+
+🔍 Running fallback query: NASA funding
+✅ Fetched 3 articles for fallback 'NASA funding'
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Europe Eyes Space and Science Surge Amid U.S. Budget Cuts
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Trump cuts science funds, France tells scientists 'come, join us'
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: MDA shares walloped by White House space cuts
+🕒 Sleeping 3 seconds to avoid rate limiting...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running query: RFQ
+✅ Fetched 3 articles for 'RFQ'
+- BCCI announces release of RFQ for official partner rights for IPL (Livemint)
+- Your Questions Answered: How can I invest in corporate bonds using the RFQ platform? (Livemint)
+- Sebi looking to mandate FPIs to use RFQ platform for 10 pc of secondary transactions (Business Insider India)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: BCCI announces release of RFQ for official partner rights for IPL
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Your Questions Answered: How can I invest in corporate bonds using the RFQ platform?
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Sebi looking to mandate FPIs to use RFQ platform for 10 pc of secondary transactions
+📉 Low insert count for 'RFQ' — only 0 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+
+🔍 Running fallback query: USAID programs
+✅ Fetched 3 articles for fallback 'USAID programs'
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: U.S. restores urgent food aid in some countries but excludes Afghanistan and Yemen
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Trump administration ends some USAID contracts providing lifesaving aid across the Middle East
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Trump administration ends some USAID contracts providing lifesaving aid across the Middle East
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running fallback query: CDC policy
+✅ Fetched 3 articles for fallback 'CDC policy'
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Trump Nominates Susan Monarez for CDC Director Amid Vaccine Policy Scrutiny
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: FDA Expands Alnylam Heart Drug Approval Amid Health Policy Shifts
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: CDC meeting on vaccinations postponed days after RFK Jr. took over HHS
+🕒 Sleeping 3 seconds to avoid rate limiting...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running query: federal budget
+✅ Fetched 3 articles for 'federal budget'
+- Budget keeps the state on unsustainable fiscal trajectory (The Australian Financial Review)
+- Ray Dalio says risk to U.S. Treasurys greater than what Moody's says (CNBC)
+- Liberal government to table federal budget this fall, PM Carney says (Vancouver Is Awesome)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+✅ Inserted: Budget keeps the state on unsustainable fiscal trajectory
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+✅ Inserted: Ray Dalio says risk to U.S. Treasurys greater than what Moody's says
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Liberal government to table federal budget this fall, PM Carney says
+📉 Low insert count for 'federal budget' — only 2 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+
+🔍 Running fallback query: HHS grant
+✅ Fetched 3 articles for fallback 'HHS grant'
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Musk’s takeover of US health agencies raises pandemic threat, experts warn
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: HHS spent $400,000 interviewing transgender people in India
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Bush revives bill to provide mental health services to families affected by police shootings
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running fallback query: Department of Energy budget
+✅ Fetched 3 articles for fallback 'Department of Energy budget'
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: From watts to warheads: Secretary of energy oversees big science research and the US nuclear arsenal
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: ₱70B needed over next 5 years to achieve full electrification - DOE
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Gruha Jyothi grabs lion's share, no relief for escoms
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running fallback query: Department of Defense AI
+✅ Fetched 3 articles for fallback 'Department of Defense AI'
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Pentagon Earmarks $100 Million To Develop AI Pilot Projects & Speed Up "Real-World Experimentation"
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Palantir stock soars as Department of Defense spending powers earnings beat
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Palantir stock soars as Department of Defense spending powers earnings beat
+🕒 Sleeping 3 seconds to avoid rate limiting...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running query: appropriations bill
+✅ Fetched 3 articles for 'appropriations bill'
+- Indiana toll road bill amended in committee, but toll road language remains (Chicago Tribune)
+- Bill to attract Chicago Bears to Indiana passes out of Senate committee (Chicago Tribune)
+- Idaho budget writers approve Medicaid budget, including expected savings from Medicaid reform bill (Coeur d'Alene Press)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Indiana toll road bill amended in committee, but toll road language remains
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Bill to attract Chicago Bears to Indiana passes out of Senate committee
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Idaho budget writers approve Medicaid budget, including expected savings from Medicaid reform bill
+📉 Low insert count for 'appropriations bill' — only 0 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+
+🔍 Running fallback query: VA modernization
+✅ Fetched 2 articles for fallback 'VA modernization'
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Xcelerate Solutions Wins DLA Recompete to Continue Modernization Efforts
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Federal Transit Administration Selects ICF for $10 Million in IT Modernization Services
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running fallback query: GSA procurement
+✅ Fetched 0 articles for fallback 'GSA procurement'
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running fallback query: DHS cybersecurity
+✅ Fetched 3 articles for fallback 'DHS cybersecurity'
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: DHS moves to fire 12 CISA employees who policed 'misinformation' and pause 'all election security activities'
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: US probe against alleged hacking by China at stake, homeland security fires cybersecurity advisers
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Cybersecurity Under Siege: DHS Fires Advisory Board Amid Major Hack Probe
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running fallback query: NIH research grant
+✅ Fetched 3 articles for fallback 'NIH research grant'
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: NIH grant supports Wayne State University research on protecting vision in people with diabetes
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: A Michigan research professor explains how NIH funding works − and what it means to suddenly lose a grant
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Scholars, groups sue Trump administration over canceled NIH research funding
+🕒 Sleeping 3 seconds to avoid rate limiting...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running query: infrastructure spending
+✅ Fetched 3 articles for 'infrastructure spending'
+- Infrastructure spending must come before tax cuts, says Ibec (The Irish Times)
+- UK Economy Surpasses Forecasts with Unexpected Growth (Devdiscourse)
+- Ford pledges Ontario budget with infrastructure spending, not cuts, to battle U.S. tariffs (The Globe and Mail)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+✅ Inserted: Infrastructure spending must come before tax cuts, says Ibec
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: UK Economy Surpasses Forecasts with Unexpected Growth
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Ford pledges Ontario budget with infrastructure spending, not cuts, to battle U.S. tariffs
+📉 Low insert count for 'infrastructure spending' — only 1 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running query: government contracts
+✅ Fetched 3 articles for 'government contracts'
+- Manitoba says no to some U.S. bidders, but Tories say U.S. firms still getting work (Toronto Star)
+- Centre tweaks provision to ease compliance for brokers (Livemint)
+- Microsoft employee disrupts Satya Nadella’s Build conference keynote (The Verge)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+✅ Inserted: Manitoba says no to some U.S. bidders, but Tories say U.S. firms still getting work
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+✅ Inserted: Centre tweaks provision to ease compliance for brokers
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+✅ Inserted: Microsoft employee disrupts Satya Nadella’s Build conference keynote
+📉 Low insert count for 'government contracts' — only 3 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running query: contract award
+✅ Fetched 3 articles for 'contract award'
+- MTA to award $187M management contract for Second Ave. Subway work (New York Daily News)
+- Eyeing China threat, Trump announces Boeing wins contract for secretive future fighter jet (Coeur d'Alene Press)
+- Cash-strapped RTÉ is set to splurge an estimated €150,000 on professional tree surgeon services (Irish Mirror)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: MTA to award $187M management contract for Second Ave. Subway work
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Eyeing China threat, Trump announces Boeing wins contract for secretive future fighter jet
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Cash-strapped RTÉ is set to splurge an estimated €150,000 on professional tree surgeon services
+📉 Low insert count for 'contract award' — only 0 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running query: cybersecurity spending
+✅ Fetched 3 articles for 'cybersecurity spending'
+- Microsoft is spending $700 million to ramp up security and computing power in Poland (TechRadar)
+- Companies are spending barely any IT budget on security (TechRadar)
+- RBI-Kotak Mahindra Bank effect: ICICI Bank spotlights increased spending on IT, cybersecurity (Livemint)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Microsoft is spending $700 million to ramp up security and computing power in Poland
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Companies are spending barely any IT budget on security
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: RBI-Kotak Mahindra Bank effect: ICICI Bank spotlights increased spending on IT, cybersecurity
+📉 Low insert count for 'cybersecurity spending' — only 0 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running query: defense modernization
+✅ Fetched 3 articles for 'defense modernization'
+- Pentagon prioritizes Indo-Pacific, rapid modernization ahead of fiscal year 2026 (UPI News)
+- India's Defence Budget 2025-26: A Leap Towards Self-Reliance and Modernization (Devdiscourse)
+- Galido pledges Army modernization for enhanced territorial defense (manilastandard.net)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Pentagon prioritizes Indo-Pacific, rapid modernization ahead of fiscal year 2026
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: India's Defence Budget 2025-26: A Leap Towards Self-Reliance and Modernization
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Galido pledges Army modernization for enhanced territorial defense
+📉 Low insert count for 'defense modernization' — only 0 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running query: climate funding
+✅ Fetched 3 articles for 'climate funding'
+- EU proposes curbing more green rules on farming subsidies (Devdiscourse)
+- USDA Restores Climate Change Pages After Lawsuit (Devdiscourse)
+- House Republicans target clean energy tax credits and pollution rules in budget proposal (The Associated Press)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: EU proposes curbing more green rules on farming subsidies
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: USDA Restores Climate Change Pages After Lawsuit
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: House Republicans target clean energy tax credits and pollution rules in budget proposal
+📉 Low insert count for 'climate funding' — only 0 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running query: technology investment
+✅ Fetched 3 articles for 'technology investment'
+- Foxconn's Strategic $1.48 Billion Investment Spurs iPhone Surge in India (Devdiscourse)
+- Big Tech goes from stock market’s safest bet to biggest question (The Mercury News)
+- Black Opal Ventures Releases Annual Impact Report, Spotlighting Frontier Technology Companies Solving Healthcare's Complex Challenges (VentureBeat)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+✅ Inserted: Foxconn's Strategic $1.48 Billion Investment Spurs iPhone Surge in India
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+✅ Inserted: Big Tech goes from stock market’s safest bet to biggest question
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Black Opal Ventures Releases Annual Impact Report, Spotlighting Frontier Technology Companies Solving Healthcare's Complex Challenges
+📉 Low insert count for 'technology investment' — only 2 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running query: AI regulation
+✅ Fetched 3 articles for 'AI regulation'
+- House Republicans want to stop states from regulating AI. More than 100 organizations are pushing back (Cable News Network)
+- Tim Ayres must not copy Europe’s bonkers AI regulation (The Australian Financial Review)
+- Republicans Propose No Regulation of AI for the Next 10 Years (Newsweek)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+✅ Inserted: House Republicans want to stop states from regulating AI. More than 100 organizations are pushing back
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Tim Ayres must not copy Europe’s bonkers AI regulation
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Republicans Propose No Regulation of AI for the Next 10 Years
+📉 Low insert count for 'AI regulation' — only 1 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+🚀 Finished all eligible queries.
+
+🔍 Running query: CHIPS Act
+✅ Fetched 3 articles for 'CHIPS Act'
+- The cool truth: Are ice chips safe for your pet? (manilastandard.net)
+- Design flaws undercut law to bring chip manufacturing back to US, expert says (FreightWaves)
+- Trump signs order to set up new entity to take over Biden’s Chips Act program (The Guardian)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: The cool truth: Are ice chips safe for your pet?
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Design flaws undercut law to bring chip manufacturing back to US, expert says
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Trump signs order to set up new entity to take over Biden’s Chips Act program
+📉 Low insert count for 'CHIPS Act' — only 0 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running query: Inflation Reduction Act
+✅ Fetched 3 articles for 'Inflation Reduction Act'
+- Republicans propose gutting Biden climate bill for Trump tax cuts (CBS News)
+- USDA Restores Climate Change Pages After Lawsuit (Devdiscourse)
+- House GOP wants to cut parts of the Inflation Reduction Act while sparing others (TechCrunch)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Republicans propose gutting Biden climate bill for Trump tax cuts
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: USDA Restores Climate Change Pages After Lawsuit
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: House GOP wants to cut parts of the Inflation Reduction Act while sparing others
+📉 Low insert count for 'Inflation Reduction Act' — only 0 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running query: American Rescue Plan
+✅ Fetched 3 articles for 'American Rescue Plan'
+- Louisiana allocates $750M to fix failing water and sewer systems (WBRZ)
+- Gary council postpones multiple ordinances, approves finance items (Chicago Tribune)
+- North Charleston could soon see new community center (Live 5 News WCSC)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Louisiana allocates $750M to fix failing water and sewer systems
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Gary council postpones multiple ordinances, approves finance items
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: North Charleston could soon see new community center
+📉 Low insert count for 'American Rescue Plan' — only 0 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+🚀 Finished all eligible queries.
+
+🔍 Running query: NDAA
+✅ Fetched 3 articles for 'NDAA'
+- DJI evades US ban but has one year to prove its products aren't a national security threat (Engadget)
+- DJI escapes US drone ban - but may get banned automatically unless Trump steps in (The Verge)
+- Senate Approves Landmark Defense Bill Amid Controversy (Devdiscourse)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: DJI evades US ban but has one year to prove its products aren't a national security threat
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: DJI escapes US drone ban - but may get banned automatically unless Trump steps in
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Senate Approves Landmark Defense Bill Amid Controversy
+📉 Low insert count for 'NDAA' — only 0 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running query: RFP
+✅ Fetched 3 articles for 'RFP'
+- Revised parking rates to be taken up during April 30 meet: General House of Chandigarh’s civic body (The Indian Express)
+- Transfix launches RFP tool, teases upcoming gen AI release (FreightWaves)
+- Future of VC Summer Nuclear Station in Jenkinsville may be revived (WLTX.com)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Revised parking rates to be taken up during April 30 meet: General House of Chandigarh’s civic body
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Transfix launches RFP tool, teases upcoming gen AI release
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Future of VC Summer Nuclear Station in Jenkinsville may be revived
+📉 Low insert count for 'RFP' — only 0 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running query: RFQ
+✅ Fetched 3 articles for 'RFQ'
+- BCCI announces release of RFQ for official partner rights for IPL (Livemint)
+- Your Questions Answered: How can I invest in corporate bonds using the RFQ platform? (Livemint)
+- Sebi looking to mandate FPIs to use RFQ platform for 10 pc of secondary transactions (Business Insider India)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: BCCI announces release of RFQ for official partner rights for IPL
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Your Questions Answered: How can I invest in corporate bonds using the RFQ platform?
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Sebi looking to mandate FPIs to use RFQ platform for 10 pc of secondary transactions
+📉 Low insert count for 'RFQ' — only 0 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+
+🔍 Running fallback query: NASA funding
+✅ Fetched 3 articles for fallback 'NASA funding'
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Europe Eyes Space and Science Surge Amid U.S. Budget Cuts
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Trump cuts science funds, France tells scientists 'come, join us'
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: MDA shares walloped by White House space cuts
+🕒 Sleeping 3 seconds to avoid rate limiting...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running query: federal budget
+✅ Fetched 3 articles for 'federal budget'
+- ‘I’m starting to believe Mr. Trump when he says it wouldn’t require a military invasion to take over Canada.’ Letters to the editor for May 23 (The Globe and Mail)
+- 3 things to watch on mental health in Trump’s early budget proposals (News-Medical.net)
+- Budget keeps the state on unsustainable fiscal trajectory (The Australian Financial Review)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+✅ Inserted: ‘I’m starting to believe Mr. Trump when he says it wouldn’t require a military invasion to take over Canada.’ Letters to the editor for May 23
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+✅ Inserted: 3 things to watch on mental health in Trump’s early budget proposals
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Budget keeps the state on unsustainable fiscal trajectory
+📉 Low insert count for 'federal budget' — only 2 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+
+🔍 Running fallback query: USAID programs
+✅ Fetched 3 articles for fallback 'USAID programs'
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: U.S. restores urgent food aid in some countries but excludes Afghanistan and Yemen
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Trump administration ends some USAID contracts providing lifesaving aid across the Middle East
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Trump administration ends some USAID contracts providing lifesaving aid across the Middle East
+🕒 Sleeping 3 seconds to avoid rate limiting...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running query: appropriations bill
+✅ Fetched 3 articles for 'appropriations bill'
+- Indiana toll road bill amended in committee, but toll road language remains (Chicago Tribune)
+- Bill to attract Chicago Bears to Indiana passes out of Senate committee (Chicago Tribune)
+- Idaho budget writers approve Medicaid budget, including expected savings from Medicaid reform bill (Coeur d'Alene Press)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Indiana toll road bill amended in committee, but toll road language remains
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Bill to attract Chicago Bears to Indiana passes out of Senate committee
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Idaho budget writers approve Medicaid budget, including expected savings from Medicaid reform bill
+📉 Low insert count for 'appropriations bill' — only 0 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+
+🔍 Running fallback query: CDC policy
+✅ Fetched 3 articles for fallback 'CDC policy'
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Trump Nominates Susan Monarez for CDC Director Amid Vaccine Policy Scrutiny
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: FDA Expands Alnylam Heart Drug Approval Amid Health Policy Shifts
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: CDC meeting on vaccinations postponed days after RFK Jr. took over HHS
+🕒 Sleeping 3 seconds to avoid rate limiting...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running query: infrastructure spending
+✅ Fetched 3 articles for 'infrastructure spending'
+- Infrastructure spending must come before tax cuts, says Ibec (The Irish Times)
+- UK Economy Surpasses Forecasts with Unexpected Growth (Devdiscourse)
+- Ford pledges Ontario budget with infrastructure spending, not cuts, to battle U.S. tariffs (The Globe and Mail)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Infrastructure spending must come before tax cuts, says Ibec
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: UK Economy Surpasses Forecasts with Unexpected Growth
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Ford pledges Ontario budget with infrastructure spending, not cuts, to battle U.S. tariffs
+📉 Low insert count for 'infrastructure spending' — only 0 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+
+🔍 Running fallback query: HHS grant
+✅ Fetched 3 articles for fallback 'HHS grant'
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Musk’s takeover of US health agencies raises pandemic threat, experts warn
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: HHS spent $400,000 interviewing transgender people in India
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Bush revives bill to provide mental health services to families affected by police shootings
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running fallback query: Department of Energy budget
+✅ Fetched 3 articles for fallback 'Department of Energy budget'
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: From watts to warheads: Secretary of energy oversees big science research and the US nuclear arsenal
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: ₱70B needed over next 5 years to achieve full electrification - DOE
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Gruha Jyothi grabs lion's share, no relief for escoms
+🕒 Sleeping 3 seconds to avoid rate limiting...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running query: government contracts
+✅ Fetched 3 articles for 'government contracts'
+- Manitoba says no to some U.S. bidders, but Tories say U.S. firms still getting work (Toronto Star)
+- Centre tweaks provision to ease compliance for brokers (Livemint)
+- Microsoft employee disrupts Satya Nadella’s Build conference keynote (The Verge)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Manitoba says no to some U.S. bidders, but Tories say U.S. firms still getting work
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Centre tweaks provision to ease compliance for brokers
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Microsoft employee disrupts Satya Nadella’s Build conference keynote
+📉 Low insert count for 'government contracts' — only 0 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+
+🔍 Running fallback query: Department of Defense AI
+✅ Fetched 3 articles for fallback 'Department of Defense AI'
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+✅ Inserted: Elon Musk's Strategic Pentagon Engagement: Opportunities and Challenges
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Pentagon Earmarks $100 Million To Develop AI Pilot Projects & Speed Up "Real-World Experimentation"
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Palantir stock soars as Department of Defense spending powers earnings beat
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running fallback query: VA modernization
+✅ Fetched 2 articles for fallback 'VA modernization'
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Xcelerate Solutions Wins DLA Recompete to Continue Modernization Efforts
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Federal Transit Administration Selects ICF for $10 Million in IT Modernization Services
+🕒 Sleeping 3 seconds to avoid rate limiting...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running query: contract award
+✅ Fetched 3 articles for 'contract award'
+- MTA to award $187M management contract for Second Ave. Subway work (New York Daily News)
+- Eyeing China threat, Trump announces Boeing wins contract for secretive future fighter jet (Coeur d'Alene Press)
+- Cash-strapped RTÉ is set to splurge an estimated €150,000 on professional tree surgeon services (Irish Mirror)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: MTA to award $187M management contract for Second Ave. Subway work
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Eyeing China threat, Trump announces Boeing wins contract for secretive future fighter jet
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Cash-strapped RTÉ is set to splurge an estimated €150,000 on professional tree surgeon services
+📉 Low insert count for 'contract award' — only 0 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+
+🔍 Running fallback query: GSA procurement
+✅ Fetched 0 articles for fallback 'GSA procurement'
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running fallback query: DHS cybersecurity
+✅ Fetched 3 articles for fallback 'DHS cybersecurity'
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: DHS moves to fire 12 CISA employees who policed 'misinformation' and pause 'all election security activities'
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: US probe against alleged hacking by China at stake, homeland security fires cybersecurity advisers
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Cybersecurity Under Siege: DHS Fires Advisory Board Amid Major Hack Probe
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running fallback query: NIH research grant
+✅ Fetched 3 articles for fallback 'NIH research grant'
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: NIH grant supports Wayne State University research on protecting vision in people with diabetes
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: A Michigan research professor explains how NIH funding works − and what it means to suddenly lose a grant
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Scholars, groups sue Trump administration over canceled NIH research funding
+🕒 Sleeping 3 seconds to avoid rate limiting...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running query: cybersecurity spending
+✅ Fetched 3 articles for 'cybersecurity spending'
+- Microsoft is spending $700 million to ramp up security and computing power in Poland (TechRadar)
+- Companies are spending barely any IT budget on security (TechRadar)
+- RBI-Kotak Mahindra Bank effect: ICICI Bank spotlights increased spending on IT, cybersecurity (Livemint)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Microsoft is spending $700 million to ramp up security and computing power in Poland
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Companies are spending barely any IT budget on security
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: RBI-Kotak Mahindra Bank effect: ICICI Bank spotlights increased spending on IT, cybersecurity
+📉 Low insert count for 'cybersecurity spending' — only 0 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running query: defense modernization
+✅ Fetched 3 articles for 'defense modernization'
+- Pentagon prioritizes Indo-Pacific, rapid modernization ahead of fiscal year 2026 (UPI News)
+- India's Defence Budget 2025-26: A Leap Towards Self-Reliance and Modernization (Devdiscourse)
+- Galido pledges Army modernization for enhanced territorial defense (manilastandard.net)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Pentagon prioritizes Indo-Pacific, rapid modernization ahead of fiscal year 2026
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: India's Defence Budget 2025-26: A Leap Towards Self-Reliance and Modernization
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Galido pledges Army modernization for enhanced territorial defense
+📉 Low insert count for 'defense modernization' — only 0 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running query: climate funding
+✅ Fetched 3 articles for 'climate funding'
+- EU proposes curbing more green rules on farming subsidies (Devdiscourse)
+- USDA Restores Climate Change Pages After Lawsuit (Devdiscourse)
+- House Republicans target clean energy tax credits and pollution rules in budget proposal (The Associated Press)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: EU proposes curbing more green rules on farming subsidies
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: USDA Restores Climate Change Pages After Lawsuit
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: House Republicans target clean energy tax credits and pollution rules in budget proposal
+📉 Low insert count for 'climate funding' — only 0 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running query: technology investment
+✅ Fetched 3 articles for 'technology investment'
+- Foxconn's Strategic $1.48 Billion Investment Spurs iPhone Surge in India (Devdiscourse)
+- Big Tech goes from stock market’s safest bet to biggest question (The Mercury News)
+- Black Opal Ventures Releases Annual Impact Report, Spotlighting Frontier Technology Companies Solving Healthcare's Complex Challenges (VentureBeat)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Foxconn's Strategic $1.48 Billion Investment Spurs iPhone Surge in India
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Big Tech goes from stock market’s safest bet to biggest question
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Black Opal Ventures Releases Annual Impact Report, Spotlighting Frontier Technology Companies Solving Healthcare's Complex Challenges
+📉 Low insert count for 'technology investment' — only 0 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running query: AI regulation
+✅ Fetched 3 articles for 'AI regulation'
+- House Republicans want to stop states from regulating AI. More than 100 organizations are pushing back (Cable News Network)
+- Tim Ayres must not copy Europe’s bonkers AI regulation (The Australian Financial Review)
+- Republicans Propose No Regulation of AI for the Next 10 Years (Newsweek)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: House Republicans want to stop states from regulating AI. More than 100 organizations are pushing back
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Tim Ayres must not copy Europe’s bonkers AI regulation
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Republicans Propose No Regulation of AI for the Next 10 Years
+📉 Low insert count for 'AI regulation' — only 0 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+🚀 Finished all eligible queries.
+ℹ️ No eligible primary queries — attempting secondary tier instead...
+🚀 Finished all eligible queries.
+
+🔍 Running query: federal budget
+✅ Fetched 3 articles for 'federal budget'
+- ‘I’m starting to believe Mr. Trump when he says it wouldn’t require a military invasion to take over Canada.’ Letters to the editor for May 23 (The Globe and Mail)
+- 3 things to watch on mental health in Trump’s early budget proposals (News-Medical.net)
+- Budget keeps the state on unsustainable fiscal trajectory (The Australian Financial Review)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: ‘I’m starting to believe Mr. Trump when he says it wouldn’t require a military invasion to take over Canada.’ Letters to the editor for May 23
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: 3 things to watch on mental health in Trump’s early budget proposals
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Budget keeps the state on unsustainable fiscal trajectory
+📉 Low insert count for 'federal budget' — only 0 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running query: appropriations bill
+✅ Fetched 3 articles for 'appropriations bill'
+- Indiana toll road bill amended in committee, but toll road language remains (Chicago Tribune)
+- Bill to attract Chicago Bears to Indiana passes out of Senate committee (Chicago Tribune)
+- Idaho budget writers approve Medicaid budget, including expected savings from Medicaid reform bill (Coeur d'Alene Press)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Indiana toll road bill amended in committee, but toll road language remains
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Bill to attract Chicago Bears to Indiana passes out of Senate committee
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Idaho budget writers approve Medicaid budget, including expected savings from Medicaid reform bill
+📉 Low insert count for 'appropriations bill' — only 0 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running query: infrastructure spending
+✅ Fetched 3 articles for 'infrastructure spending'
+- Elon Musk's DOGE targets U.S. Census Bureau (CP24 Toronto)
+- DOGE targets Census Bureau, worrying data users about health of US data infrastructure (Toronto Star)
+- Infrastructure spending must come before tax cuts, says Ibec (The Irish Times)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+✅ Inserted: Elon Musk's DOGE targets U.S. Census Bureau
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+✅ Inserted: DOGE targets Census Bureau, worrying data users about health of US data infrastructure
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Infrastructure spending must come before tax cuts, says Ibec
+📉 Low insert count for 'infrastructure spending' — only 2 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running query: government contracts
+✅ Fetched 3 articles for 'government contracts'
+- Manitoba says no to some U.S. bidders, but Tories say U.S. firms still getting work (Toronto Star)
+- Centre tweaks provision to ease compliance for brokers (Livemint)
+- Microsoft employee disrupts Satya Nadella’s Build conference keynote (The Verge)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Manitoba says no to some U.S. bidders, but Tories say U.S. firms still getting work
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Centre tweaks provision to ease compliance for brokers
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Microsoft employee disrupts Satya Nadella’s Build conference keynote
+📉 Low insert count for 'government contracts' — only 0 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+
+🔍 Running fallback query: NASA funding
+✅ Fetched 3 articles for fallback 'NASA funding'
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Europe Eyes Space and Science Surge Amid U.S. Budget Cuts
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Trump cuts science funds, France tells scientists 'come, join us'
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: MDA shares walloped by White House space cuts
+🕒 Sleeping 3 seconds to avoid rate limiting...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running query: contract award
+✅ Fetched 3 articles for 'contract award'
+- MTA to award $187M management contract for Second Ave. Subway work (New York Daily News)
+- Eyeing China threat, Trump announces Boeing wins contract for secretive future fighter jet (Coeur d'Alene Press)
+- Cash-strapped RTÉ is set to splurge an estimated €150,000 on professional tree surgeon services (Irish Mirror)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: MTA to award $187M management contract for Second Ave. Subway work
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Eyeing China threat, Trump announces Boeing wins contract for secretive future fighter jet
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Cash-strapped RTÉ is set to splurge an estimated €150,000 on professional tree surgeon services
+📉 Low insert count for 'contract award' — only 0 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+
+🔍 Running fallback query: USAID programs
+✅ Fetched 3 articles for fallback 'USAID programs'
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+✅ Inserted: Elon Musk says Doge didn’t cut HIV programs. But it threw a ‘miracle drug’ into chaos
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: U.S. restores urgent food aid in some countries but excludes Afghanistan and Yemen
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Trump administration ends some USAID contracts providing lifesaving aid across the Middle East
+🕒 Sleeping 3 seconds to avoid rate limiting...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running query: cybersecurity spending
+✅ Fetched 3 articles for 'cybersecurity spending'
+- Microsoft is spending $700 million to ramp up security and computing power in Poland (TechRadar)
+- Companies are spending barely any IT budget on security (TechRadar)
+- RBI-Kotak Mahindra Bank effect: ICICI Bank spotlights increased spending on IT, cybersecurity (Livemint)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Microsoft is spending $700 million to ramp up security and computing power in Poland
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Companies are spending barely any IT budget on security
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: RBI-Kotak Mahindra Bank effect: ICICI Bank spotlights increased spending on IT, cybersecurity
+📉 Low insert count for 'cybersecurity spending' — only 0 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+
+🔍 Running fallback query: CDC policy
+✅ Fetched 3 articles for fallback 'CDC policy'
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Trump Nominates Susan Monarez for CDC Director Amid Vaccine Policy Scrutiny
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: FDA Expands Alnylam Heart Drug Approval Amid Health Policy Shifts
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: CDC meeting on vaccinations postponed days after RFK Jr. took over HHS
+🕒 Sleeping 3 seconds to avoid rate limiting...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running query: defense modernization
+✅ Fetched 3 articles for 'defense modernization'
+- Pentagon prioritizes Indo-Pacific, rapid modernization ahead of fiscal year 2026 (UPI News)
+- India's Defence Budget 2025-26: A Leap Towards Self-Reliance and Modernization (Devdiscourse)
+- Galido pledges Army modernization for enhanced territorial defense (manilastandard.net)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Pentagon prioritizes Indo-Pacific, rapid modernization ahead of fiscal year 2026
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: India's Defence Budget 2025-26: A Leap Towards Self-Reliance and Modernization
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Galido pledges Army modernization for enhanced territorial defense
+📉 Low insert count for 'defense modernization' — only 0 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+
+🔍 Running fallback query: HHS grant
+✅ Fetched 3 articles for fallback 'HHS grant'
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Musk’s takeover of US health agencies raises pandemic threat, experts warn
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: HHS spent $400,000 interviewing transgender people in India
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Bush revives bill to provide mental health services to families affected by police shootings
+🕒 Sleeping 3 seconds to avoid rate limiting...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running query: climate funding
+✅ Fetched 3 articles for 'climate funding'
+- EU proposes curbing more green rules on farming subsidies (Devdiscourse)
+- USDA Restores Climate Change Pages After Lawsuit (Devdiscourse)
+- House Republicans target clean energy tax credits and pollution rules in budget proposal (The Associated Press)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: EU proposes curbing more green rules on farming subsidies
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: USDA Restores Climate Change Pages After Lawsuit
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: House Republicans target clean energy tax credits and pollution rules in budget proposal
+📉 Low insert count for 'climate funding' — only 0 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+
+🔍 Running fallback query: Department of Energy budget
+✅ Fetched 3 articles for fallback 'Department of Energy budget'
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: From watts to warheads: Secretary of energy oversees big science research and the US nuclear arsenal
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: ₱70B needed over next 5 years to achieve full electrification - DOE
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Gruha Jyothi grabs lion's share, no relief for escoms
+🕒 Sleeping 3 seconds to avoid rate limiting...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running query: technology investment
+✅ Fetched 3 articles for 'technology investment'
+- Foxconn's Strategic $1.48 Billion Investment Spurs iPhone Surge in India (Devdiscourse)
+- Big Tech goes from stock market’s safest bet to biggest question (The Mercury News)
+- Black Opal Ventures Releases Annual Impact Report, Spotlighting Frontier Technology Companies Solving Healthcare's Complex Challenges (VentureBeat)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Foxconn's Strategic $1.48 Billion Investment Spurs iPhone Surge in India
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Big Tech goes from stock market’s safest bet to biggest question
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Black Opal Ventures Releases Annual Impact Report, Spotlighting Frontier Technology Companies Solving Healthcare's Complex Challenges
+📉 Low insert count for 'technology investment' — only 0 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+
+🔍 Running fallback query: Department of Defense AI
+✅ Fetched 3 articles for fallback 'Department of Defense AI'
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+✅ Inserted: Trump's Nuclear Energy Revamp: Fast-Tracking Reactor Licensing
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Elon Musk's Strategic Pentagon Engagement: Opportunities and Challenges
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Pentagon Earmarks $100 Million To Develop AI Pilot Projects & Speed Up "Real-World Experimentation"
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running fallback query: VA modernization
+✅ Fetched 2 articles for fallback 'VA modernization'
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Xcelerate Solutions Wins DLA Recompete to Continue Modernization Efforts
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Federal Transit Administration Selects ICF for $10 Million in IT Modernization Services
+🕒 Sleeping 3 seconds to avoid rate limiting...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running query: AI regulation
+✅ Fetched 3 articles for 'AI regulation'
+- House Republicans want to stop states from regulating AI. More than 100 organizations are pushing back (Cable News Network)
+- Tim Ayres must not copy Europe’s bonkers AI regulation (The Australian Financial Review)
+- Republicans Propose No Regulation of AI for the Next 10 Years (Newsweek)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: House Republicans want to stop states from regulating AI. More than 100 organizations are pushing back
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Tim Ayres must not copy Europe’s bonkers AI regulation
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Republicans Propose No Regulation of AI for the Next 10 Years
+📉 Low insert count for 'AI regulation' — only 0 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+
+🔍 Running fallback query: GSA procurement
+✅ Fetched 0 articles for fallback 'GSA procurement'
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running fallback query: DHS cybersecurity
+✅ Fetched 3 articles for fallback 'DHS cybersecurity'
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: DHS moves to fire 12 CISA employees who policed 'misinformation' and pause 'all election security activities'
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: US probe against alleged hacking by China at stake, homeland security fires cybersecurity advisers
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Cybersecurity Under Siege: DHS Fires Advisory Board Amid Major Hack Probe
+🕒 Sleeping 3 seconds to avoid rate limiting...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running query: CHIPS Act
+✅ Fetched 3 articles for 'CHIPS Act'
+- The cool truth: Are ice chips safe for your pet? (manilastandard.net)
+- Design flaws undercut law to bring chip manufacturing back to US, expert says (FreightWaves)
+- Trump signs order to set up new entity to take over Biden’s Chips Act program (The Guardian)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: The cool truth: Are ice chips safe for your pet?
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Design flaws undercut law to bring chip manufacturing back to US, expert says
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Trump signs order to set up new entity to take over Biden’s Chips Act program
+📉 Low insert count for 'CHIPS Act' — only 0 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+
+🔍 Running fallback query: NIH research grant
+✅ Fetched 3 articles for fallback 'NIH research grant'
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: NIH grant supports Wayne State University research on protecting vision in people with diabetes
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: A Michigan research professor explains how NIH funding works − and what it means to suddenly lose a grant
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Scholars, groups sue Trump administration over canceled NIH research funding
+🕒 Sleeping 3 seconds to avoid rate limiting...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running query: Inflation Reduction Act
+✅ Fetched 3 articles for 'Inflation Reduction Act'
+- Canada’s canola farmers stand to gain from U.S. tax breaks for clean fuel (The Globe and Mail)
+- Republicans propose gutting Biden climate bill for Trump tax cuts (CBS News)
+- USDA Restores Climate Change Pages After Lawsuit (Devdiscourse)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+✅ Inserted: Canada’s canola farmers stand to gain from U.S. tax breaks for clean fuel
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Republicans propose gutting Biden climate bill for Trump tax cuts
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: USDA Restores Climate Change Pages After Lawsuit
+📉 Low insert count for 'Inflation Reduction Act' — only 1 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running query: American Rescue Plan
+✅ Fetched 3 articles for 'American Rescue Plan'
+- Louisiana allocates $750M to fix failing water and sewer systems (WBRZ)
+- Gary council postpones multiple ordinances, approves finance items (Chicago Tribune)
+- North Charleston could soon see new community center (Live 5 News WCSC)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Louisiana allocates $750M to fix failing water and sewer systems
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Gary council postpones multiple ordinances, approves finance items
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: North Charleston could soon see new community center
+📉 Low insert count for 'American Rescue Plan' — only 0 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running query: NDAA
+✅ Fetched 3 articles for 'NDAA'
+- DJI evades US ban but has one year to prove its products aren't a national security threat (Engadget)
+- DJI escapes US drone ban - but may get banned automatically unless Trump steps in (The Verge)
+- Senate Approves Landmark Defense Bill Amid Controversy (Devdiscourse)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: DJI evades US ban but has one year to prove its products aren't a national security threat
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: DJI escapes US drone ban - but may get banned automatically unless Trump steps in
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Senate Approves Landmark Defense Bill Amid Controversy
+📉 Low insert count for 'NDAA' — only 0 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running query: RFP
+✅ Fetched 3 articles for 'RFP'
+- LETTER: 'Poverty and disability are not crimes' (GuelphToday)
+- Revised parking rates to be taken up during April 30 meet: General House of Chandigarh’s civic body (The Indian Express)
+- Transfix launches RFP tool, teases upcoming gen AI release (FreightWaves)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+✅ Inserted: LETTER: 'Poverty and disability are not crimes'
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Revised parking rates to be taken up during April 30 meet: General House of Chandigarh’s civic body
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Transfix launches RFP tool, teases upcoming gen AI release
+📉 Low insert count for 'RFP' — only 1 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running query: RFQ
+✅ Fetched 3 articles for 'RFQ'
+- BCCI announces release of RFQ for official partner rights for IPL (Livemint)
+- Your Questions Answered: How can I invest in corporate bonds using the RFQ platform? (Livemint)
+- Sebi looking to mandate FPIs to use RFQ platform for 10 pc of secondary transactions (Business Insider India)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: BCCI announces release of RFQ for official partner rights for IPL
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Your Questions Answered: How can I invest in corporate bonds using the RFQ platform?
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Sebi looking to mandate FPIs to use RFQ platform for 10 pc of secondary transactions
+📉 Low insert count for 'RFQ' — only 0 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+🚀 Finished all eligible queries.
+ℹ️ No eligible primary queries — attempting secondary tier instead...
+🚀 Finished all eligible queries.
+
+🔍 Running query: NDAA
+✅ Fetched 3 articles for 'NDAA'
+- DJI evades US ban but has one year to prove its products aren't a national security threat (Engadget)
+- DJI escapes US drone ban - but may get banned automatically unless Trump steps in (The Verge)
+- Senate Approves Landmark Defense Bill Amid Controversy (Devdiscourse)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: DJI evades US ban but has one year to prove its products aren't a national security threat
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: DJI escapes US drone ban - but may get banned automatically unless Trump steps in
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Senate Approves Landmark Defense Bill Amid Controversy
+📉 Low insert count for 'NDAA' — only 0 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running query: RFP
+✅ Fetched 3 articles for 'RFP'
+- LETTER: 'Poverty and disability are not crimes' (GuelphToday)
+- Revised parking rates to be taken up during April 30 meet: General House of Chandigarh’s civic body (The Indian Express)
+- Transfix launches RFP tool, teases upcoming gen AI release (FreightWaves)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: LETTER: 'Poverty and disability are not crimes'
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Revised parking rates to be taken up during April 30 meet: General House of Chandigarh’s civic body
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Transfix launches RFP tool, teases upcoming gen AI release
+📉 Low insert count for 'RFP' — only 0 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running query: RFQ
+✅ Fetched 3 articles for 'RFQ'
+- BCCI announces release of RFQ for official partner rights for IPL (Livemint)
+- Your Questions Answered: How can I invest in corporate bonds using the RFQ platform? (Livemint)
+- Sebi looking to mandate FPIs to use RFQ platform for 10 pc of secondary transactions (Business Insider India)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: BCCI announces release of RFQ for official partner rights for IPL
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Your Questions Answered: How can I invest in corporate bonds using the RFQ platform?
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Sebi looking to mandate FPIs to use RFQ platform for 10 pc of secondary transactions
+📉 Low insert count for 'RFQ' — only 0 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running query: federal budget
+✅ Fetched 3 articles for 'federal budget'
+- ‘I’m starting to believe Mr. Trump when he says it wouldn’t require a military invasion to take over Canada.’ Letters to the editor for May 23 (The Globe and Mail)
+- 3 things to watch on mental health in Trump’s early budget proposals (News-Medical.net)
+- Budget keeps the state on unsustainable fiscal trajectory (The Australian Financial Review)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: ‘I’m starting to believe Mr. Trump when he says it wouldn’t require a military invasion to take over Canada.’ Letters to the editor for May 23
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: 3 things to watch on mental health in Trump’s early budget proposals
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Budget keeps the state on unsustainable fiscal trajectory
+📉 Low insert count for 'federal budget' — only 0 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+
+🔍 Running fallback query: NASA funding
+✅ Fetched 3 articles for fallback 'NASA funding'
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Europe Eyes Space and Science Surge Amid U.S. Budget Cuts
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Trump cuts science funds, France tells scientists 'come, join us'
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: MDA shares walloped by White House space cuts
+🕒 Sleeping 3 seconds to avoid rate limiting...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running query: appropriations bill
+✅ Fetched 3 articles for 'appropriations bill'
+- Indiana toll road bill amended in committee, but toll road language remains (Chicago Tribune)
+- Bill to attract Chicago Bears to Indiana passes out of Senate committee (Chicago Tribune)
+- Idaho budget writers approve Medicaid budget, including expected savings from Medicaid reform bill (Coeur d'Alene Press)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Indiana toll road bill amended in committee, but toll road language remains
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Bill to attract Chicago Bears to Indiana passes out of Senate committee
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Idaho budget writers approve Medicaid budget, including expected savings from Medicaid reform bill
+📉 Low insert count for 'appropriations bill' — only 0 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+
+🔍 Running fallback query: USAID programs
+✅ Fetched 3 articles for fallback 'USAID programs'
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Elon Musk says Doge didn’t cut HIV programs. But it threw a ‘miracle drug’ into chaos
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: U.S. restores urgent food aid in some countries but excludes Afghanistan and Yemen
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Trump administration ends some USAID contracts providing lifesaving aid across the Middle East
+🕒 Sleeping 3 seconds to avoid rate limiting...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running query: infrastructure spending
+✅ Fetched 3 articles for 'infrastructure spending'
+- Elon Musk's DOGE targets U.S. Census Bureau (CP24 Toronto)
+- DOGE targets Census Bureau, worrying data users about health of US data infrastructure (Toronto Star)
+- Infrastructure spending must come before tax cuts, says Ibec (The Irish Times)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Elon Musk's DOGE targets U.S. Census Bureau
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: DOGE targets Census Bureau, worrying data users about health of US data infrastructure
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Infrastructure spending must come before tax cuts, says Ibec
+📉 Low insert count for 'infrastructure spending' — only 0 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+
+🔍 Running fallback query: CDC policy
+✅ Fetched 3 articles for fallback 'CDC policy'
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Trump Nominates Susan Monarez for CDC Director Amid Vaccine Policy Scrutiny
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: FDA Expands Alnylam Heart Drug Approval Amid Health Policy Shifts
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: CDC meeting on vaccinations postponed days after RFK Jr. took over HHS
+🕒 Sleeping 3 seconds to avoid rate limiting...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running query: government contracts
+✅ Fetched 3 articles for 'government contracts'
+- Manitoba says no to some U.S. bidders, but Tories say U.S. firms still getting work (Toronto Star)
+- Centre tweaks provision to ease compliance for brokers (Livemint)
+- Microsoft employee disrupts Satya Nadella’s Build conference keynote (The Verge)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Manitoba says no to some U.S. bidders, but Tories say U.S. firms still getting work
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Centre tweaks provision to ease compliance for brokers
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Microsoft employee disrupts Satya Nadella’s Build conference keynote
+📉 Low insert count for 'government contracts' — only 0 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+
+🔍 Running fallback query: HHS grant
+✅ Fetched 3 articles for fallback 'HHS grant'
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Musk’s takeover of US health agencies raises pandemic threat, experts warn
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: HHS spent $400,000 interviewing transgender people in India
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Bush revives bill to provide mental health services to families affected by police shootings
+🕒 Sleeping 3 seconds to avoid rate limiting...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running query: contract award
+✅ Fetched 3 articles for 'contract award'
+- MTA to award $187M management contract for Second Ave. Subway work (New York Daily News)
+- Eyeing China threat, Trump announces Boeing wins contract for secretive future fighter jet (Coeur d'Alene Press)
+- Cash-strapped RTÉ is set to splurge an estimated €150,000 on professional tree surgeon services (Irish Mirror)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: MTA to award $187M management contract for Second Ave. Subway work
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Eyeing China threat, Trump announces Boeing wins contract for secretive future fighter jet
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Cash-strapped RTÉ is set to splurge an estimated €150,000 on professional tree surgeon services
+📉 Low insert count for 'contract award' — only 0 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+
+🔍 Running fallback query: Department of Energy budget
+✅ Fetched 3 articles for fallback 'Department of Energy budget'
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: From watts to warheads: Secretary of energy oversees big science research and the US nuclear arsenal
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: ₱70B needed over next 5 years to achieve full electrification - DOE
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Gruha Jyothi grabs lion's share, no relief for escoms
+🕒 Sleeping 3 seconds to avoid rate limiting...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running query: cybersecurity spending
+✅ Fetched 3 articles for 'cybersecurity spending'
+- Microsoft is spending $700 million to ramp up security and computing power in Poland (TechRadar)
+- Companies are spending barely any IT budget on security (TechRadar)
+- RBI-Kotak Mahindra Bank effect: ICICI Bank spotlights increased spending on IT, cybersecurity (Livemint)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Microsoft is spending $700 million to ramp up security and computing power in Poland
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Companies are spending barely any IT budget on security
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: RBI-Kotak Mahindra Bank effect: ICICI Bank spotlights increased spending on IT, cybersecurity
+📉 Low insert count for 'cybersecurity spending' — only 0 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+
+🔍 Running fallback query: Department of Defense AI
+✅ Fetched 3 articles for fallback 'Department of Defense AI'
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Trump's Nuclear Energy Revamp: Fast-Tracking Reactor Licensing
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Elon Musk's Strategic Pentagon Engagement: Opportunities and Challenges
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Pentagon Earmarks $100 Million To Develop AI Pilot Projects & Speed Up "Real-World Experimentation"
+🕒 Sleeping 3 seconds to avoid rate limiting...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running query: defense modernization
+✅ Fetched 3 articles for 'defense modernization'
+- Pentagon prioritizes Indo-Pacific, rapid modernization ahead of fiscal year 2026 (UPI News)
+- India's Defence Budget 2025-26: A Leap Towards Self-Reliance and Modernization (Devdiscourse)
+- Galido pledges Army modernization for enhanced territorial defense (manilastandard.net)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Pentagon prioritizes Indo-Pacific, rapid modernization ahead of fiscal year 2026
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: India's Defence Budget 2025-26: A Leap Towards Self-Reliance and Modernization
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Galido pledges Army modernization for enhanced territorial defense
+📉 Low insert count for 'defense modernization' — only 0 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+
+🔍 Running fallback query: VA modernization
+✅ Fetched 2 articles for fallback 'VA modernization'
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Xcelerate Solutions Wins DLA Recompete to Continue Modernization Efforts
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Federal Transit Administration Selects ICF for $10 Million in IT Modernization Services
+🕒 Sleeping 3 seconds to avoid rate limiting...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running query: climate funding
+✅ Fetched 3 articles for 'climate funding'
+- EU proposes curbing more green rules on farming subsidies (Devdiscourse)
+- USDA Restores Climate Change Pages After Lawsuit (Devdiscourse)
+- House Republicans target clean energy tax credits and pollution rules in budget proposal (The Associated Press)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: EU proposes curbing more green rules on farming subsidies
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: USDA Restores Climate Change Pages After Lawsuit
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: House Republicans target clean energy tax credits and pollution rules in budget proposal
+📉 Low insert count for 'climate funding' — only 0 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+
+🔍 Running fallback query: GSA procurement
+✅ Fetched 0 articles for fallback 'GSA procurement'
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running fallback query: DHS cybersecurity
+✅ Fetched 3 articles for fallback 'DHS cybersecurity'
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: DHS moves to fire 12 CISA employees who policed 'misinformation' and pause 'all election security activities'
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: US probe against alleged hacking by China at stake, homeland security fires cybersecurity advisers
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Cybersecurity Under Siege: DHS Fires Advisory Board Amid Major Hack Probe
+🕒 Sleeping 3 seconds to avoid rate limiting...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running query: technology investment
+✅ Fetched 3 articles for 'technology investment'
+- Foxconn's Strategic $1.48 Billion Investment Spurs iPhone Surge in India (Devdiscourse)
+- Big Tech goes from stock market’s safest bet to biggest question (The Mercury News)
+- Black Opal Ventures Releases Annual Impact Report, Spotlighting Frontier Technology Companies Solving Healthcare's Complex Challenges (VentureBeat)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Foxconn's Strategic $1.48 Billion Investment Spurs iPhone Surge in India
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Big Tech goes from stock market’s safest bet to biggest question
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Black Opal Ventures Releases Annual Impact Report, Spotlighting Frontier Technology Companies Solving Healthcare's Complex Challenges
+📉 Low insert count for 'technology investment' — only 0 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+
+🔍 Running fallback query: NIH research grant
+✅ Fetched 3 articles for fallback 'NIH research grant'
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: NIH grant supports Wayne State University research on protecting vision in people with diabetes
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: A Michigan research professor explains how NIH funding works − and what it means to suddenly lose a grant
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Scholars, groups sue Trump administration over canceled NIH research funding
+🕒 Sleeping 3 seconds to avoid rate limiting...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running query: AI regulation
+✅ Fetched 3 articles for 'AI regulation'
+- Trump’s One Big Beautiful Bill: What a 10-year ban on state AI regulation really means (The Indian Express)
+- House Republicans want to stop states from regulating AI. More than 100 organizations are pushing back (Cable News Network)
+- Tim Ayres must not copy Europe’s bonkers AI regulation (The Australian Financial Review)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+✅ Inserted: Trump’s One Big Beautiful Bill: What a 10-year ban on state AI regulation really means
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: House Republicans want to stop states from regulating AI. More than 100 organizations are pushing back
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Tim Ayres must not copy Europe’s bonkers AI regulation
+📉 Low insert count for 'AI regulation' — only 1 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+🚀 Finished all eligible queries.
+
+🔍 Running query: American Rescue Plan
+✅ Fetched 3 articles for 'American Rescue Plan'
+- Louisiana allocates $750M to fix failing water and sewer systems (WBRZ)
+- Gary council postpones multiple ordinances, approves finance items (Chicago Tribune)
+- North Charleston could soon see new community center (Live 5 News WCSC)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Louisiana allocates $750M to fix failing water and sewer systems
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Gary council postpones multiple ordinances, approves finance items
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: North Charleston could soon see new community center
+📉 Low insert count for 'American Rescue Plan' — only 0 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running query: CHIPS Act
+✅ Fetched 3 articles for 'CHIPS Act'
+- The cool truth: Are ice chips safe for your pet? (manilastandard.net)
+- Design flaws undercut law to bring chip manufacturing back to US, expert says (FreightWaves)
+- Trump signs order to set up new entity to take over Biden’s Chips Act program (The Guardian)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: The cool truth: Are ice chips safe for your pet?
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Design flaws undercut law to bring chip manufacturing back to US, expert says
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Trump signs order to set up new entity to take over Biden’s Chips Act program
+📉 Low insert count for 'CHIPS Act' — only 0 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+
+🔍 Running query: Inflation Reduction Act
+✅ Fetched 3 articles for 'Inflation Reduction Act'
+- Canada’s canola farmers stand to gain from U.S. tax breaks for clean fuel (The Globe and Mail)
+- Republicans propose gutting Biden climate bill for Trump tax cuts (CBS News)
+- USDA Restores Climate Change Pages After Lawsuit (Devdiscourse)
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Canada’s canola farmers stand to gain from U.S. tax breaks for clean fuel
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: Republicans propose gutting Biden climate bill for Trump tax cuts
+🔗 POSTing to: https://jtipgozhqzmvmxizztqm.supabase.co/rest/v1/articles
+⚠️ Duplicate: USDA Restores Climate Change Pages After Lawsuit
+📉 Low insert count for 'Inflation Reduction Act' — only 0 new articles.
+🔁 Attempting fallback queries (tier: secondary)...
+🕒 Sleeping 3 seconds to avoid rate limiting...
+🚀 Finished all eligible queries.
