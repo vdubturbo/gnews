@@ -52,7 +52,7 @@ def enrich_summary(summary_text):
         "You are an expert in government news analysis. Given the article summary below, respond ONLY in valid JSON format with the following keys. Do not include markdown backticks. Do not use JSON objects with values only (e.g., {\"Entity\"}); instead use key-value pairs like {\"Entity\": {}} or lists:\n"
         "- topics: list of strings\n"
         "- entities: an object with keys: agencies, companies, people, programs\n"
-        "- relevance_score: integer from 1 to 10, where 1 = irrelevant to government or budgetary concerns, 5 = tangentially related, and 10 = highly relevant to U.S. federal procurement, policy, or agencies\n"
+        "- relevance_score: integer from 0 to 100, where 0 = completely irrelevant to government or budgetary concerns, 50 = moderately relevant, and 100 = critically relevant to U.S. federal procurement, policy, or agencies\n"
         "- budget_mentions: list of strings (may be empty)\n\n"
         f"Summary: {summary_text}"
     )
@@ -129,6 +129,11 @@ def update_article_enrichment(article_id, enriched_data, summary_text):
             r'"\1": {}', 
             enriched_data
         )
+        # Attempt to repair common JSON errors such as missing commas in arrays
+        enriched_data = re.sub(r'"\s*([^\"]+)"\s*"', r'"\1"', enriched_data)  # clean errant whitespace
+        enriched_data = enriched_data.replace(']["', '],["')  # separate wrongly joined array strings
+        enriched_data = re.sub(r'(?<=[\]"}])\s*(?=["{\[])', r', ', enriched_data)  # add commas between objects if missing
+
         parsed = json.loads(enriched_data)
         entities = parsed.get("entities", {})
         for group in ["agencies", "companies", "people", "programs"]:
@@ -139,20 +144,14 @@ def update_article_enrichment(article_id, enriched_data, summary_text):
         all_topics = list(original_topics.union(keyword_topics))
 
         raw_score = parsed.get("relevance_score", 5)
-        if raw_score >= 9:
-            relevance_score = 8
-        elif raw_score >= 7:
-            relevance_score = 7
-        elif raw_score >= 5:
-            relevance_score = 6
-        else:
-            relevance_score = 5
+        relevance_score = max(0, min(100, int(raw_score)))
 
         data = {
             "topics": all_topics,
             "entities": entities,
             "relevance_score": relevance_score,
-            "budget_mentions": parsed.get("budget_mentions")
+            "last_analysis_at": datetime.utcnow().isoformat(),
+            "budget_mentions": [m.strip() for m in parsed.get("budget_mentions", []) if isinstance(m, str) and m.strip()]
         }
     except json.JSONDecodeError as e:
         print(f"⚠️ JSON parse error for article {article_id}: {e}")

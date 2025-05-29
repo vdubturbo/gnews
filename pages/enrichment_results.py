@@ -16,7 +16,7 @@ st.title("🧠 Enriched Article Insights")
 
 # Fetch enriched articles from Supabase
 @st.cache_data(ttl=600)
-def fetch_enriched_articles(limit=50):
+def fetch_enriched_articles(limit=500):
     response = supabase.table("articles") \
         .select("title, published_at, topics, relevance_score, entities") \
         .order("published_at", desc=True) \

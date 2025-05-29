@@ -6,5 +6,42 @@ __pycache__/
 .vscode/
 .gnews-venv/
 .gnews-env/
+# Ignore virtual environment
 gnews-env/
+
+# Ignore model files
 bertopic_model
+# Python artifacts
+*.pyc
+__pycache__/
+
+# Environment variables
+.env
+.env.local
+
+# Databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs
+*.log
+logs/
+
+# VSCode settings
+.vscode/
+
+# Virtual environments
+.gnews-env/
+.gnews-venv/
+gnews-env/
+
+# Model artifacts
+bertopic_model
+*.pkl
+*.bin
+*.onnx
+*.pt
+
+# Jupyter Notebooks
+.ipynb_checkpoints/

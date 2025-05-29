@@ -2983,3 +2983,201 @@
 🔍 Enriching article 786efe0f-9d3d-4478-ab0f-4f2c8ae82745
 ✅ Successfully updated article 786efe0f-9d3d-4478-ab0f-4f2c8ae82745
 🕒 Sleeping 3 seconds to be polite...
+🔍 Enriching article 49aa7baf-c140-4acd-a6f3-17366cf2bcbc
+✅ Successfully updated article 49aa7baf-c140-4acd-a6f3-17366cf2bcbc
+⚡ Skipping sleep for local model
+🔍 Enriching article 65308446-8e54-4e9a-ab15-942237c9fb2a
+⚠️ JSON parse error for article 65308446-8e54-4e9a-ab15-942237c9fb2a: Expecting value: line 25 column 11 (char 650)
+↪️ Raw response: {
+      "topics": [
+          "Military Benefits",
+          "TRICARE Prime",
+          "Gold Star Spouses",
+          "Veterans Employment",
+          "Wildland Firefighters",
+          "Healthcare Legislation"
+      ],
+      "entities": {
+          "agencies": [
+              "Veterans Affairs Department",
+              "Agriculture Department"
+          ],
+          "companies": [],
+          "people": [
+              "Rep. Marcy Kaptur (D-Ohio)",
+              "Rep. Don Bacon (R-Neb.)",
+              "Rep. Joe Neguse (D-Colo.)"
+          ],
+          "programs": []
+      },
+      "relevance_score": 9,
+      "budget_mentions": [
+          // No budget mentions in the provided summary
+      ]
+   }
+⚡ Skipping sleep for local model
+🔍 Enriching article 27805ac2-01b4-4ed7-8723-81df501d3d68
+✅ Successfully updated article 27805ac2-01b4-4ed7-8723-81df501d3d68
+⚡ Skipping sleep for local model
+🔍 Enriching article 0cad9f6e-83c7-4f23-8540-e1ced2875a88
+✅ Successfully updated article 0cad9f6e-83c7-4f23-8540-e1ced2875a88
+⚡ Skipping sleep for local model
+🔍 Enriching article 9fe82398-e079-4620-a1cd-eede9d05c863
+✅ Successfully updated article 9fe82398-e079-4620-a1cd-eede9d05c863
+⚡ Skipping sleep for local model
+🔍 Enriching article d43a99e2-8c4c-4320-9abc-79c4a54dfaa3
+⚠️ JSON parse error for article d43a99e2-8c4c-4320-9abc-79c4a54dfaa3: Expecting ',' delimiter: line 20 column 26 (char 422)
+↪️ Raw response: {
+    "topics": [
+      "Authoritarianism",
+      "Democracy",
+      "Populism",
+      "Conservative politics",
+      "International relations"
+    ],
+    "entities": {
+      "people": [
+        {"Name": "Viktor Orbán"},
+        {"Name": "Kim Scheppele"},
+        {"Name": "David Reaboi"}
+      ],
+      "agencies": [],
+      "companies": [],
+      "programs": []
+    },
+    "relevance_score": 7,
+    "budget_mentions": []
+⚡ Skipping sleep for local model
+🔍 Enriching article 3211caf6-a871-42aa-8749-0e79455d3a76
+✅ Successfully updated article 3211caf6-a871-42aa-8749-0e79455d3a76
+⚡ Skipping sleep for local model
+🔍 Enriching article 67e2cbcc-c9a1-462e-8871-f12b81ba6fda
+✅ Successfully updated article 67e2cbcc-c9a1-462e-8871-f12b81ba6fda
+⚡ Skipping sleep for local model
+🔍 Enriching article d7aa47d6-7592-4625-bb97-ece55424b29e
+✅ Successfully updated article d7aa47d6-7592-4625-bb97-ece55424b29e
+⚡ Skipping sleep for local model
+🔍 Enriching article a4fdf0a1-4628-4951-991b-f274f03e0174
+❌ Ollama error: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=30)
+⚡ Skipping sleep for local model
+🔍 Enriching article 5ccd3fd0-226f-4f72-997b-051694520b82
+✅ Successfully updated article 5ccd3fd0-226f-4f72-997b-051694520b82
+⚡ Skipping sleep for local model
+🔍 Enriching article 3b602ff4-70f8-4d43-975a-60af21fb96f1
+✅ Successfully updated article 3b602ff4-70f8-4d43-975a-60af21fb96f1
+⚡ Skipping sleep for local model
+🔍 Enriching article d2554a28-f4c6-4a6c-bf93-b4423d4a6e29
+✅ Successfully updated article d2554a28-f4c6-4a6c-bf93-b4423d4a6e29
+⚡ Skipping sleep for local model
+🔍 Enriching article 3e6fd5d0-8445-451e-8316-9ceefb55a040
+✅ Successfully updated article 3e6fd5d0-8445-451e-8316-9ceefb55a040
+⚡ Skipping sleep for local model
+🔍 Enriching article c2100d64-f215-4298-a125-ceb36551c815
+⚠️ JSON parse error for article c2100d64-f215-4298-a125-ceb36551c815: Expecting ',' delimiter: line 10 column 26 (char 420)
+↪️ Raw response: {
+    "topics": ["Infrastructure investment", "Housing affordability", "Public transport", "Climate risk management", "Urban appeal", "Education and training", "Governance and leadership", "Talent pool", "Economic strength", "Innovation hub"],
+    "entities": {
+        "agencies": [],
+        "companies": ["KPMG"],
+        "people": [],
+        "programs": []
+    },
+    "relevance_score": 5,
+    "budget_mentions": []
+⚡ Skipping sleep for local model
+🔍 Enriching article 46c7791f-e2cd-496b-ab54-703bbedbc506
+✅ Successfully updated article 46c7791f-e2cd-496b-ab54-703bbedbc506
+⚡ Skipping sleep for local model
+🔍 Enriching article 4cdec83e-0978-490f-a2a4-ce7da9afffff
+✅ Successfully updated article 4cdec83e-0978-490f-a2a4-ce7da9afffff
+⚡ Skipping sleep for local model
+🔍 Enriching article 47ea6fd4-1f7f-4339-8e4b-1a70cdab596a
+⚠️ JSON parse error for article 47ea6fd4-1f7f-4339-8e4b-1a70cdab596a: Expecting value: line 18 column 11 (char 622)
+↪️ Raw response: {
+      "topics": [
+          "Artificial intelligence",
+          "Weather forecasting",
+          "Wildfire prediction",
+          "NOAA",
+          "Legislation",
+          "Government efficiency"
+      ],
+      "entities": {
+          "agencies": ["National Oceanic and Atmospheric Administration (NOAA)", "Energy Department", "NASA", "National Science Foundation"],
+          "companies": [],
+          "people": ["Senators Brian Schatz (D-Hawaii)", "Tim Sheehy (R-Mont.)", "Scott Franklin (R-Fla.)", "Rick Spinrad"],
+          "programs": []
+      },
+      "relevance_score": 9,
+      "budget_mentions": [
+          // No budget mentions in the summary
+      ]
+   }
+⚡ Skipping sleep for local model
+🔍 Enriching article c340b64f-5e17-40fb-a113-2136f0ee5ab0
+✅ Successfully updated article c340b64f-5e17-40fb-a113-2136f0ee5ab0
+⚡ Skipping sleep for local model
+🔍 Enriching article ffe928f4-4bd9-47a0-8710-d19986385b2e
+✅ Successfully updated article ffe928f4-4bd9-47a0-8710-d19986385b2e
+⚡ Skipping sleep for local model
+🔍 Enriching article 14a01dc3-783d-471d-b225-98539abe5212
+✅ Successfully updated article 14a01dc3-783d-471d-b225-98539abe5212
+⚡ Skipping sleep for local model
+🔍 Enriching article 9fc962d9-eec7-49eb-9a55-3d723491297d
+✅ Successfully updated article 9fc962d9-eec7-49eb-9a55-3d723491297d
+⚡ Skipping sleep for local model
+🔍 Enriching article d4d4f36f-d8a4-4878-8369-19ddaec8adb8
+✅ Successfully updated article d4d4f36f-d8a4-4878-8369-19ddaec8adb8
+⚡ Skipping sleep for local model
+🔍 Enriching article b05b34b1-c929-45e2-a64a-e74025fb4fd4
+✅ Successfully updated article b05b34b1-c929-45e2-a64a-e74025fb4fd4
+⚡ Skipping sleep for local model
+🔍 Enriching article bf10ff18-c9da-416d-8907-2637b2cb60a1
+✅ Successfully updated article bf10ff18-c9da-416d-8907-2637b2cb60a1
+⚡ Skipping sleep for local model
+🔍 Enriching article b889b21e-9a19-4ff8-88c5-e56e791611c0
+✅ Successfully updated article b889b21e-9a19-4ff8-88c5-e56e791611c0
+⚡ Skipping sleep for local model
+🔍 Enriching article c7e07723-781e-46e4-9bd9-204c51fcb883
+✅ Successfully updated article c7e07723-781e-46e4-9bd9-204c51fcb883
+⚡ Skipping sleep for local model
+🔍 Enriching article 49017dbb-52c3-4e2c-a049-6a4ffa4db8b1
+✅ Successfully updated article 49017dbb-52c3-4e2c-a049-6a4ffa4db8b1
+⚡ Skipping sleep for local model
+🔍 Enriching article c7db9185-4edf-4b97-89b6-0890bd2cb075
+✅ Successfully updated article c7db9185-4edf-4b97-89b6-0890bd2cb075
+⚡ Skipping sleep for local model
+🔍 Enriching article e755efd0-2da4-4fe9-82c4-1512f44f6d56
+✅ Successfully updated article e755efd0-2da4-4fe9-82c4-1512f44f6d56
+⚡ Skipping sleep for local model
+🔍 Enriching article 5a3d5007-eecc-43c2-afa4-2e680ea397ef
+✅ Successfully updated article 5a3d5007-eecc-43c2-afa4-2e680ea397ef
+⚡ Skipping sleep for local model
+🔍 Enriching article 1d63bbcd-0abd-4bf4-b91d-4ab97535d666
+✅ Successfully updated article 1d63bbcd-0abd-4bf4-b91d-4ab97535d666
+⚡ Skipping sleep for local model
+🔍 Enriching article b5737dc5-cefa-4cbb-b2bb-6ce70257fd33
+✅ Successfully updated article b5737dc5-cefa-4cbb-b2bb-6ce70257fd33
+⚡ Skipping sleep for local model
+🔍 Enriching article ff4f5f46-ef24-4b55-b24f-c9f85a5836ff
+✅ Successfully updated article ff4f5f46-ef24-4b55-b24f-c9f85a5836ff
+⚡ Skipping sleep for local model
+🔍 Enriching article b50155a3-0f7d-43d8-93dc-3d0b69209012
+✅ Successfully updated article b50155a3-0f7d-43d8-93dc-3d0b69209012
+⚡ Skipping sleep for local model
+🔍 Enriching article 53ee2c02-18bb-4074-bd80-7f72ede8d76b
+✅ Successfully updated article 53ee2c02-18bb-4074-bd80-7f72ede8d76b
+⚡ Skipping sleep for local model
+🔍 Enriching article 89b58480-1d1a-47fb-89d3-1b3c8aa67291
+⚠️ JSON parse error for article 89b58480-1d1a-47fb-89d3-1b3c8aa67291: Expecting ',' delimiter: line 10 column 122 (char 650)
+↪️ Raw response: {
+    "topics": ["Homelessness among veterans", "VA campus in West Los Angeles", "Housing for veterans", "Executive orders on veterans' issues"],
+    "entities": {
+        "agencies": ["VA (Department of Veterans Affairs)", "Trump administration"],
+        "companies": [],
+        "people": ["Irving Webb (Iraq war veteran)", "Rob Reynolds (advocate for LA's homeless vets)", "Pete Kasperowicz (VA spokesman)", "Brad Sherman (Democrat representing West LA in Congress)"],
+        "programs": []
+    },
+    "relevance_score": 9,
+    "budget_mentions": ["The executive order aims to house 6,000 veterans on the VA campus in West Los Angeles by 2028."]
+⚡ Skipping sleep for local model

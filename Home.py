@@ -13,9 +13,9 @@ SUPABASE_KEY = os.getenv("SUPABASE_KEY")
 
 st.set_page_config(page_title="Federal News Intelligence", layout="wide")
 
-@st.cache_data
+@st.cache_data(ttl=300)
 def load_articles():
-    url = f"{SUPABASE_URL}/rest/v1/articles?select=id,title,url,published_at,topics,entities,relevance_score&scraped=eq.true&summary=not.is.null"
+    url = f"{SUPABASE_URL}/rest/v1/articles?select=id,title,url,published_at,topics,entities,relevance_score,last_analysis_at&last_analysis_at=not.is.null&order=last_analysis_at.desc&limit=100"
     headers = {
         "apikey": SUPABASE_KEY,
         "Authorization": f"Bearer {SUPABASE_KEY}",
@@ -43,6 +43,11 @@ with col2:
         st.markdown("[Click here to open](./insights2_dashboard.py)", unsafe_allow_html=True)
 
 df = load_articles()
+
+# 🔍 DEBUG: Confirm what was loaded
+st.write("✅ Raw Articles Loaded:", len(df))
+st.write(df.head(10))
+
 st.metric("Total Articles", len(df))
 
 # Filter sidebar
